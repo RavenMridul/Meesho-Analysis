@@ -1,0 +1,1001 @@
+Product ID,Product Name,Category,Subcategory,Original Price,Discount (%),Final Price,Rating,Reviews,Stock,Seller,City,State,Delivery Days,COD Available,Date Added
+MP100000,Stay Bedsheets,Home & Kitchen,Bedsheets,2050.07,9,1865.56,3.5,3565,49,Green LLC,West Chelseabury,Idaho,2,No,2024-08-27
+MP100001,Ahead Earphones,Electronics,Earphones,1140.61,5,1083.58,1.7,925,72,Leonard and Sons,Jeffreyport,Arkansas,2,Yes,2025-01-06
+MP100002,Dream Smartwatches,Electronics,Smartwatches,1111.04,26,822.17,4.5,4236,15,Valdez PLC,Walkerberg,Colorado,3,No,2025-07-03
+MP100003,Red Decor,Home & Kitchen,Decor,1469.94,28,1058.36,1.9,1360,7,"Estrada, Cooper and Hanson",Jimmytown,Arizona,2,No,2024-12-27
+MP100004,Suffer Smartwatches,Electronics,Smartwatches,1661.74,60,664.7,1.8,442,26,Anderson PLC,New Veronicafurt,Oklahoma,4,No,2024-12-16
+MP100005,Indeed Skincare,Beauty & Health,Skincare,820.78,44,459.64,1.7,995,73,Bryant Inc,Juliehaven,Colorado,7,Yes,2024-08-15
+MP100006,Suddenly Jewelry,Accessories,Jewelry,445.59,30,311.91,3.4,4430,1,"Wright, Giles and Edwards",Hardybury,North Dakota,5,Yes,2024-10-29
+MP100007,Reason Cookware,Home & Kitchen,Cookware,2055.14,22,1603.01,3.6,4604,87,Bowers LLC,Charlesborough,Washington,6,No,2024-10-17
+MP100008,Act Earphones,Electronics,Earphones,1360.54,13,1183.67,3.7,1683,51,Smith LLC,Port Adam,Oklahoma,7,No,2024-08-11
+MP100009,Data Sarees,Fashion,Sarees,2959.78,20,2367.82,2.8,3465,22,Clark and Sons,Maryview,North Dakota,2,Yes,2024-08-11
+MP100010,International Curtains,Home & Kitchen,Curtains,2479.22,39,1512.32,3.3,2286,96,Roberts-Taylor,Booneshire,New Hampshire,4,Yes,2025-05-14
+MP100011,Dream Watches,Accessories,Watches,2487.22,59,1019.76,1.7,1529,72,Thompson-Matthews,New Billystad,California,8,No,2025-02-04
+MP100012,Mouth Cookware,Home & Kitchen,Cookware,2011.97,39,1227.3,3.4,1916,75,Mckay-Lynch,Garyton,Ohio,5,Yes,2025-03-26
+MP100013,Too Mobile Covers,Electronics,Mobile Covers,2936.22,58,1233.21,1.2,2723,2,Delgado and Sons,South Theresahaven,Michigan,6,No,2025-01-22
+MP100014,Perhaps Haircare,Beauty & Health,Haircare,794.34,6,746.68,4.9,557,4,Lawson Ltd,Hallbury,California,5,Yes,2025-06-27
+MP100015,Late Smartwatches,Electronics,Smartwatches,887.51,40,532.51,3.9,1401,87,Burton-Taylor,Joneschester,Pennsylvania,9,No,2025-04-04
+MP100016,Give Jewelry,Accessories,Jewelry,1055.06,6,991.76,3.3,2024,37,"Beck, Aguilar and Jackson",New Timothy,Arkansas,10,No,2024-12-09
+MP100017,Plan Decor,Home & Kitchen,Decor,2964.41,41,1749.0,1.0,2230,22,"Hull, Hogan and Payne",Valerieville,Oklahoma,8,No,2025-05-29
+MP100018,This Haircare,Beauty & Health,Haircare,1905.4,6,1791.08,2.0,2747,67,Shaw-Henderson,East Tammy,New York,4,No,2025-01-30
+MP100019,Phone Makeup,Beauty & Health,Makeup,1686.56,60,674.62,2.1,4164,49,Hall-Mercer,East Dawnside,West Virginia,7,Yes,2024-08-23
+MP100020,Not Watches,Accessories,Watches,745.25,33,499.32,4.7,796,25,"Williams, Gordon and Powers",Lake Amanda,Kansas,5,Yes,2025-07-10
+MP100021,Evening Personal Care,Beauty & Health,Personal Care,2070.61,27,1511.55,1.7,860,100,Wiggins PLC,Port Masonview,Oklahoma,2,No,2025-07-02
+MP100022,Entire Chargers,Electronics,Chargers,154.57,18,126.75,3.4,4541,24,Pena Group,Michellehaven,West Virginia,6,Yes,2025-07-21
+MP100023,Throw T-Shirts,Fashion,T-Shirts,620.0,16,520.8,3.2,4826,39,"Espinoza, Stewart and Walsh",Lake Stephanie,South Carolina,6,Yes,2024-10-13
+MP100024,Central Curtains,Home & Kitchen,Curtains,2366.5,6,2224.51,3.1,4677,53,Ferrell and Sons,New Kelsey,Colorado,2,No,2024-07-28
+MP100025,Place Skincare,Beauty & Health,Skincare,1104.96,41,651.93,4.1,1174,33,"Rios, Hill and Parsons",South Dylan,Texas,3,No,2024-10-23
+MP100026,Above Watches,Accessories,Watches,2506.5,18,2055.33,4.0,1143,73,"Hicks, Green and Adams",East Grace,Oregon,10,No,2024-08-17
+MP100027,As Skincare,Beauty & Health,Skincare,2553.66,16,2145.07,1.2,349,68,Curry PLC,Michaelberg,Pennsylvania,7,Yes,2025-03-20
+MP100028,Easy Sunglasses,Accessories,Sunglasses,384.4,10,345.96,4.4,952,52,Miller-Rodriguez,Donnachester,Georgia,3,Yes,2024-11-25
+MP100029,Stuff Earphones,Electronics,Earphones,505.64,18,414.62,3.9,2,47,Contreras-Miller,East Heather,New Mexico,9,Yes,2024-07-25
+MP100030,Author Belts,Accessories,Belts,680.22,14,584.99,2.5,1131,83,Phillips LLC,South Christian,Maine,10,Yes,2024-10-05
+MP100031,Party Cookware,Home & Kitchen,Cookware,1401.19,32,952.81,3.8,4211,42,Ruiz-Haney,Whitebury,Texas,4,No,2025-03-08
+MP100032,Focus Chargers,Electronics,Chargers,2927.84,29,2078.77,2.2,2727,54,Chavez Inc,Maryport,Maine,8,Yes,2025-06-03
+MP100033,Behavior Chargers,Electronics,Chargers,2016.61,8,1855.28,2.4,4962,62,Gibson-Wright,Lake Kristin,Louisiana,3,Yes,2024-09-25
+MP100034,Right Haircare,Beauty & Health,Haircare,289.34,48,150.46,3.5,3736,47,Myers-Miller,Lake Daniellefurt,Oregon,3,Yes,2025-07-10
+MP100035,Fish Haircare,Beauty & Health,Haircare,319.97,23,246.38,2.6,60,33,Dawson-Wright,Jenniferside,Nevada,6,No,2024-12-31
+MP100036,East Watches,Accessories,Watches,1828.8,30,1280.16,4.6,1698,2,"Brown, Wheeler and Thomas",East Davidfurt,West Virginia,3,No,2025-01-12
+MP100037,Natural Chargers,Electronics,Chargers,2261.86,16,1899.96,3.2,2724,92,Zuniga LLC,Hunterstad,New Jersey,10,Yes,2025-07-07
+MP100038,Data Belts,Accessories,Belts,1679.42,13,1461.1,4.6,1932,35,Cox Inc,Smithmouth,West Virginia,8,Yes,2025-05-06
+MP100039,Do Watches,Accessories,Watches,2259.81,33,1514.07,1.6,2728,16,Ibarra Ltd,Pennyfurt,Idaho,9,No,2025-06-06
+MP100040,Success Haircare,Beauty & Health,Haircare,158.97,8,146.25,5.0,2951,62,"Carpenter, Thomas and Russell",Cooperhaven,Arizona,9,Yes,2025-05-08
+MP100041,General Curtains,Home & Kitchen,Curtains,502.1,28,361.51,1.7,821,14,Adams-Morris,Jessicafort,New York,2,Yes,2024-10-29
+MP100042,Voice Bedsheets,Home & Kitchen,Bedsheets,877.42,26,649.29,1.9,68,50,Garcia PLC,Lake Monica,Alabama,8,No,2025-05-29
+MP100043,History Bags,Accessories,Bags,265.1,48,137.85,4.9,1714,63,Mccann-Crosby,Burnsbury,Wisconsin,2,No,2024-10-14
+MP100044,Would Skincare,Beauty & Health,Skincare,2458.25,8,2261.59,2.1,2022,74,Anderson LLC,Port Seth,Montana,10,Yes,2025-05-31
+MP100045,Represent Jeans,Fashion,Jeans,890.03,49,453.92,1.1,3557,21,Hansen Group,North Mirandamouth,Virginia,6,No,2024-08-06
+MP100046,Town Cookware,Home & Kitchen,Cookware,1198.7,48,623.32,3.9,1621,14,Ellis-Silva,North Benjaminside,New York,8,No,2025-01-03
+MP100047,Place Makeup,Beauty & Health,Makeup,250.58,21,197.96,2.6,2350,38,"Duncan, Ayala and Jones",Timothyport,Illinois,4,No,2024-10-12
+MP100048,Already Skincare,Beauty & Health,Skincare,1481.1,26,1096.01,2.8,4229,27,Silva Inc,West Jessica,Florida,10,No,2024-11-16
+MP100049,Factor Chargers,Electronics,Chargers,1954.42,15,1661.26,3.2,4382,19,Macdonald Group,Foxberg,New Jersey,6,No,2024-09-04
+MP100050,Several Earphones,Electronics,Earphones,2515.17,27,1836.07,2.5,88,24,Robinson PLC,South Annaport,Mississippi,3,Yes,2025-06-16
+MP100051,Position Chargers,Electronics,Chargers,724.13,56,318.62,3.3,1157,96,"Stewart, Zimmerman and Anderson",Fowlertown,Virginia,6,Yes,2024-08-19
+MP100052,Rate Watches,Accessories,Watches,947.88,20,758.3,3.4,4549,98,"Miles, Cummings and Petersen",North Jamesshire,Alabama,7,No,2024-08-03
+MP100053,Fall Sarees,Fashion,Sarees,677.74,28,487.97,4.7,2799,47,"Freeman, Ford and Martin",Amyshire,Texas,5,Yes,2025-05-09
+MP100054,Nearly Makeup,Beauty & Health,Makeup,2775.44,45,1526.49,5.0,1576,88,"Mooney, Franklin and Henry",West Sherristad,Colorado,9,No,2024-10-21
+MP100055,Strategy Haircare,Beauty & Health,Haircare,2055.52,52,986.65,1.7,1701,90,Torres and Sons,Emilyland,Mississippi,7,Yes,2025-07-14
+MP100056,News Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2632.97,41,1553.45,1.4,2255,8,Bonilla-Johnson,Costafurt,North Dakota,7,Yes,2024-10-08
+MP100057,Whom Jeans,Fashion,Jeans,461.86,47,244.79,3.1,355,14,Freeman-Davis,Hurstmouth,New Hampshire,5,Yes,2024-10-20
+MP100058,Not Mobile Covers,Electronics,Mobile Covers,1816.65,18,1489.65,4.6,4435,32,Perez Ltd,East Kevinmouth,California,4,Yes,2025-01-29
+MP100059,Here Smartwatches,Electronics,Smartwatches,2521.51,54,1159.89,3.0,1681,2,"Young, Jimenez and Spencer",Jodimouth,Nebraska,5,No,2024-08-29
+MP100060,Identify Kurtis,Fashion,Kurtis,2388.72,21,1887.09,3.3,196,98,Barrera-Oliver,New Juan,North Carolina,9,Yes,2025-05-24
+MP100061,Any Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2301.98,33,1542.33,4.9,909,17,Gomez-Lyons,Nguyenborough,Georgia,5,Yes,2024-08-05
+MP100062,Also Sarees,Fashion,Sarees,2466.53,26,1825.23,1.1,3083,8,Hernandez-Neal,Lake Brianfort,Ohio,8,Yes,2025-06-14
+MP100063,Parent Decor,Home & Kitchen,Decor,1028.04,19,832.71,3.9,3143,87,Banks-Smith,Joshualand,Pennsylvania,7,Yes,2025-06-20
+MP100064,Hair Belts,Accessories,Belts,1158.98,43,660.62,2.4,1159,45,"Cunningham, Phillips and Contreras",Millermouth,Florida,3,Yes,2025-06-12
+MP100065,Blue Belts,Accessories,Belts,2133.61,59,874.78,1.5,3815,28,Porter-Fitzpatrick,Stephenport,Alaska,5,Yes,2025-01-17
+MP100066,Seven Bags,Accessories,Bags,2634.57,11,2344.77,3.4,3003,22,Marquez Inc,Elizabethburgh,Delaware,10,Yes,2024-08-25
+MP100067,Name Belts,Accessories,Belts,2478.02,28,1784.17,4.0,688,2,"Horton, Mcknight and Edwards",Longville,Nebraska,6,No,2024-08-02
+MP100068,Thank Cookware,Home & Kitchen,Cookware,1874.79,55,843.66,4.6,1343,29,James Ltd,Hoffmanborough,Montana,9,No,2024-09-17
+MP100069,Everyone Personal Care,Beauty & Health,Personal Care,1700.99,45,935.54,4.1,254,37,Murphy PLC,Lake Amber,Iowa,9,Yes,2025-02-19
+MP100070,Something Haircare,Beauty & Health,Haircare,768.99,44,430.63,2.1,2992,2,Sweeney Ltd,Jeremymouth,Idaho,2,No,2025-03-15
+MP100071,Bad Skincare,Beauty & Health,Skincare,514.5,26,380.73,1.0,4226,40,"Wright, Owens and Ortiz",East Tim,Rhode Island,10,Yes,2024-12-07
+MP100072,Least Smartwatches,Electronics,Smartwatches,1063.52,30,744.46,2.9,1171,92,Montes-Frazier,Smithchester,New York,7,No,2024-09-14
+MP100073,West Smartwatches,Electronics,Smartwatches,1719.85,30,1203.89,3.7,1015,83,Day-Merritt,South Nicholas,Kansas,2,No,2024-08-27
+MP100074,Pay Mobile Covers,Electronics,Mobile Covers,2546.66,36,1629.86,4.2,3607,41,"Gomez, Nelson and Summers",Port Matthew,Texas,5,No,2025-03-11
+MP100075,Stage T-Shirts,Fashion,T-Shirts,960.75,8,883.89,2.3,181,100,Rodriguez Ltd,North Bobby,Kansas,9,Yes,2025-06-29
+MP100076,Deal Earphones,Electronics,Earphones,1258.42,45,692.13,1.4,4024,6,Anderson-Hayes,Halltown,Massachusetts,5,No,2025-04-29
+MP100077,Fight Kurtis,Fashion,Kurtis,526.9,25,395.17,1.1,4399,44,Savage Inc,Matthewbury,Minnesota,5,Yes,2025-05-07
+MP100078,They Curtains,Home & Kitchen,Curtains,2950.55,32,2006.37,3.2,903,72,Tanner-Oliver,South Aaronhaven,Indiana,3,No,2024-12-09
+MP100079,Could Skincare,Beauty & Health,Skincare,1312.27,36,839.85,3.0,523,87,Evans-Collins,Lake Mariaview,South Carolina,10,Yes,2024-11-26
+MP100080,Camera Jewelry,Accessories,Jewelry,1486.59,13,1293.33,5.0,193,33,"Huff, Jackson and Holmes",East Jeff,North Dakota,6,No,2025-03-11
+MP100081,Miss Sarees,Fashion,Sarees,2830.85,51,1387.12,4.1,3955,54,Morris-Adams,Lisaburgh,Kansas,2,Yes,2025-02-03
+MP100082,Performance Haircare,Beauty & Health,Haircare,2104.68,20,1683.74,4.2,1799,71,"Hill, Blankenship and Sweeney",Lake Grace,Texas,9,Yes,2025-03-11
+MP100083,Rich Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2574.13,23,1982.08,5.0,4308,65,Jones and Sons,Morganton,Ohio,4,Yes,2025-02-21
+MP100084,Interview Kurtis,Fashion,Kurtis,1456.62,47,772.01,1.6,3404,34,Fischer-Malone,Patriciabury,Virginia,5,Yes,2024-11-30
+MP100085,Fire Makeup,Beauty & Health,Makeup,339.75,53,159.68,1.5,1699,91,Butler-Gordon,South Sheila,Vermont,8,Yes,2025-04-08
+MP100086,Perform Watches,Accessories,Watches,261.59,42,151.72,4.2,100,46,Hatfield-Riley,Edgarberg,Utah,5,No,2024-11-24
+MP100087,Forget Jewelry,Accessories,Jewelry,2213.52,15,1881.49,2.2,259,43,Cline-Hayes,Walkerview,Kansas,3,Yes,2025-01-14
+MP100088,Star Watches,Accessories,Watches,2798.08,27,2042.6,3.9,2841,70,Blackwell Inc,North Jessicaton,New Hampshire,5,Yes,2025-07-07
+MP100089,Cause Smartwatches,Electronics,Smartwatches,1413.2,23,1088.16,3.2,1362,47,"Mcgrath, Walters and Lewis",North Troy,Kansas,9,Yes,2024-07-26
+MP100090,Media Smartwatches,Electronics,Smartwatches,1946.46,30,1362.52,1.1,2765,54,Miller-Contreras,Catherinestad,New Mexico,10,No,2025-04-06
+MP100091,Into Haircare,Beauty & Health,Haircare,544.91,45,299.7,3.7,730,43,"Evans, Montoya and Potter",Morachester,New Hampshire,3,No,2025-03-05
+MP100092,Property Earphones,Electronics,Earphones,1832.46,26,1356.02,4.1,1811,36,Hill-Lopez,New Karenfurt,Louisiana,4,No,2025-05-15
+MP100093,Why Earphones,Electronics,Earphones,2985.64,53,1403.25,4.7,275,85,"Miller, French and Morrow",Davisland,Alaska,8,No,2024-08-15
+MP100094,Get Earphones,Electronics,Earphones,1637.68,5,1555.8,3.4,987,75,"Oneill, Rodriguez and Garcia",Lake Wesleyburgh,Mississippi,5,Yes,2024-10-25
+MP100095,Military Skincare,Beauty & Health,Skincare,1724.4,13,1500.23,4.3,874,71,"Lopez, Proctor and Ortiz",Port Sean,Delaware,8,No,2025-01-01
+MP100096,Parent T-Shirts,Fashion,T-Shirts,2289.84,8,2106.65,2.3,1231,65,Mcfarland Ltd,Jeffchester,West Virginia,7,No,2024-11-05
+MP100097,Stage Sunglasses,Accessories,Sunglasses,2486.87,14,2138.71,2.4,4934,36,"Davies, Bishop and Ray",Port Joshua,Utah,7,No,2025-02-17
+MP100098,Require Jeans,Fashion,Jeans,794.26,29,563.92,1.1,4403,39,Dawson LLC,Atkinsonview,Mississippi,4,Yes,2024-10-05
+MP100099,Few Watches,Accessories,Watches,1442.95,54,663.76,3.4,3161,71,Wallace PLC,West Cindy,Maryland,4,Yes,2024-08-30
+MP100100,Friend Personal Care,Beauty & Health,Personal Care,466.05,11,414.78,4.0,3580,98,Miller-King,Johnmouth,North Carolina,4,Yes,2025-06-10
+MP100101,Necessary T-Shirts,Fashion,T-Shirts,1659.92,35,1078.95,2.5,3596,3,"Clayton, Spencer and Serrano",Port Catherinetown,North Carolina,4,Yes,2024-12-02
+MP100102,Choose Sunglasses,Accessories,Sunglasses,1596.28,58,670.44,2.8,483,91,Meyer-Weaver,Amyport,Nebraska,6,No,2025-01-06
+MP100103,Side Belts,Accessories,Belts,764.06,34,504.28,3.6,1404,74,Lee-Stephens,East Donald,Wyoming,4,Yes,2025-03-07
+MP100104,Almost Bags,Accessories,Bags,2902.57,19,2351.08,3.8,591,16,Hopkins-Raymond,Jeffreyview,Indiana,4,No,2025-05-31
+MP100105,Outside Chargers,Electronics,Chargers,1400.56,20,1120.45,3.2,3260,95,Garcia-Terrell,Martinezberg,Michigan,3,Yes,2025-03-19
+MP100106,Exist Makeup,Beauty & Health,Makeup,1778.9,38,1102.92,4.6,1620,5,Harvey-Anderson,Helenland,Maryland,7,No,2025-02-22
+MP100107,Type Smartwatches,Electronics,Smartwatches,1547.93,19,1253.82,4.4,3470,96,"Baker, Warren and Barnes",Port Danny,Ohio,6,No,2024-12-26
+MP100108,Cold Decor,Home & Kitchen,Decor,1953.24,12,1718.85,3.3,984,65,Mejia-Thomas,Lake Erinhaven,Texas,2,Yes,2025-02-07
+MP100109,Left Curtains,Home & Kitchen,Curtains,1979.14,18,1622.89,4.6,3548,61,Morris and Sons,East Stephanieville,Alabama,4,Yes,2025-06-11
+MP100110,Ground Haircare,Beauty & Health,Haircare,1994.38,59,817.7,1.6,2785,11,Sanders Inc,Spencebury,Maine,2,Yes,2024-10-13
+MP100111,Fund Personal Care,Beauty & Health,Personal Care,1820.71,10,1638.64,1.1,3482,91,Mcclain-Baker,East Alexandraport,Minnesota,3,Yes,2025-07-21
+MP100112,Similar Personal Care,Beauty & Health,Personal Care,2556.42,56,1124.82,1.8,1474,5,Flynn-Atkins,Port Jessicafort,Oklahoma,4,No,2025-04-09
+MP100113,Least Bedsheets,Home & Kitchen,Bedsheets,1021.21,25,765.91,3.3,2368,97,King Group,Tamarashire,Rhode Island,8,No,2024-11-21
+MP100114,Course Sunglasses,Accessories,Sunglasses,669.1,6,628.95,2.4,3134,44,"Morgan, Powell and Mayer",Lake Deborahmouth,Delaware,6,Yes,2025-04-11
+MP100115,Last Mobile Covers,Electronics,Mobile Covers,2377.97,54,1093.87,2.6,4070,39,Mills-Nelson,Port Jim,Georgia,6,Yes,2025-06-21
+MP100116,Kid Personal Care,Beauty & Health,Personal Care,1946.41,18,1596.06,2.8,3820,75,Wells and Sons,Gonzalezmouth,Nevada,3,No,2024-08-29
+MP100117,Open Kurtis,Fashion,Kurtis,1288.65,38,798.96,1.9,455,71,"Martinez, Dean and Miller",Shanefort,Mississippi,3,Yes,2024-11-29
+MP100118,Above T-Shirts,Fashion,T-Shirts,2921.05,15,2482.89,4.3,1619,46,Ray-Davidson,Nealland,Utah,5,No,2024-10-17
+MP100119,Culture Curtains,Home & Kitchen,Curtains,2576.0,22,2009.28,2.6,2803,24,Miller-Cole,Williamchester,Texas,2,Yes,2025-07-05
+MP100120,Glass Mobile Covers,Electronics,Mobile Covers,2740.65,32,1863.64,2.1,1802,60,Miller-Williams,South Angelaland,North Dakota,3,No,2025-07-14
+MP100121,Lawyer Chargers,Electronics,Chargers,2279.5,40,1367.7,4.3,3870,59,Evans-Hernandez,Williamhaven,Utah,10,Yes,2024-11-11
+MP100122,Amount Cleaning Supplies,Home & Kitchen,Cleaning Supplies,807.78,21,638.15,4.7,1322,67,"Jones, Taylor and Rivas",Emilyshire,North Carolina,8,Yes,2024-12-08
+MP100123,Work Makeup,Beauty & Health,Makeup,2279.31,33,1527.14,4.5,1695,35,Wood-Holt,Daleburgh,Mississippi,5,No,2024-09-10
+MP100124,Above Dresses,Fashion,Dresses,326.64,11,290.71,1.7,2192,90,Wallace-David,Bakerville,South Carolina,5,No,2024-07-30
+MP100125,Evidence Smartwatches,Electronics,Smartwatches,203.44,18,166.82,2.7,308,9,Ramirez-Diaz,Jasonborough,Kansas,7,No,2024-12-31
+MP100126,Authority Decor,Home & Kitchen,Decor,1755.77,30,1229.04,3.8,2916,68,"Smith, Ball and Thompson",Marioville,New York,3,Yes,2025-05-15
+MP100127,Fear T-Shirts,Fashion,T-Shirts,2979.89,41,1758.14,2.2,4337,90,"Paul, Wells and Mosley",West Ryanshire,Idaho,6,No,2024-11-19
+MP100128,Agency Bedsheets,Home & Kitchen,Bedsheets,1768.87,45,972.88,4.4,1294,84,"Franco, Reed and Conrad",New Brenda,Montana,2,Yes,2025-02-27
+MP100129,Government Makeup,Beauty & Health,Makeup,716.58,38,444.28,3.0,1677,40,Wagner-Morrow,Maureenville,Missouri,8,Yes,2025-02-22
+MP100130,Last Chargers,Electronics,Chargers,1816.46,25,1362.35,4.7,1931,92,"Costa, Richards and Baxter",Lake Debra,Montana,6,Yes,2024-12-26
+MP100131,No Sunglasses,Accessories,Sunglasses,1989.13,45,1094.02,1.0,4408,48,"Cunningham, Acosta and Garcia",New Miranda,Alabama,10,Yes,2024-08-09
+MP100132,Under Makeup,Beauty & Health,Makeup,1744.7,55,785.11,2.5,1598,12,Welch-Smith,North Ryanside,New Hampshire,7,No,2024-10-27
+MP100133,Agency Jewelry,Accessories,Jewelry,2591.06,41,1528.73,3.0,2753,12,"Mitchell, Williams and Moore",North Blakeland,Florida,10,Yes,2025-01-22
+MP100134,Finally Curtains,Home & Kitchen,Curtains,199.44,43,113.68,1.4,3766,55,Foster-Mitchell,Davidfurt,Oregon,10,No,2024-08-05
+MP100135,Increase Makeup,Beauty & Health,Makeup,1050.58,39,640.85,2.4,2258,42,"Dawson, Hughes and Brandt",North Jacobport,Pennsylvania,8,Yes,2025-04-17
+MP100136,Hit Cleaning Supplies,Home & Kitchen,Cleaning Supplies,397.07,60,158.83,4.2,4971,99,"Russo, Mcdonald and Garcia",Nelsonstad,Arizona,10,No,2025-04-08
+MP100137,Car Decor,Home & Kitchen,Decor,1277.37,41,753.65,2.6,2932,57,Reid Inc,Ericchester,Connecticut,7,No,2025-04-03
+MP100138,Personal Bags,Accessories,Bags,1858.1,51,910.47,1.2,2686,91,"Cruz, Hubbard and Norman",Williamfurt,Rhode Island,2,Yes,2025-03-24
+MP100139,Parent Chargers,Electronics,Chargers,1509.19,43,860.24,2.9,329,33,Pham-Andrews,Singhhaven,Florida,7,No,2025-02-18
+MP100140,Side Chargers,Electronics,Chargers,318.71,28,229.47,1.6,3256,33,Mcclure Group,Port Mary,New Mexico,5,No,2025-01-26
+MP100141,Rate Dresses,Fashion,Dresses,2218.11,5,2107.2,2.2,2860,34,"Hess, Miller and Turner",Jessicaburgh,Idaho,3,Yes,2025-05-12
+MP100142,Speech Haircare,Beauty & Health,Haircare,2345.22,31,1618.2,2.9,275,8,Crawford-Davis,South Joel,Kentucky,7,Yes,2024-10-03
+MP100143,Audience Dresses,Fashion,Dresses,1742.31,41,1027.96,3.2,2491,7,Jacobs-Greene,Ashleeview,Alaska,5,No,2025-03-18
+MP100144,Big Cleaning Supplies,Home & Kitchen,Cleaning Supplies,133.85,24,101.73,3.0,330,36,Diaz Inc,East Jessica,New Hampshire,4,No,2024-11-15
+MP100145,House Dresses,Fashion,Dresses,2183.98,51,1070.15,4.5,2427,6,Ross-Hurst,West Alexis,Delaware,8,No,2024-10-12
+MP100146,Gas Haircare,Beauty & Health,Haircare,1215.98,44,680.95,2.8,2669,85,"Steele, Miller and Freeman",Jameshaven,Utah,9,Yes,2024-12-27
+MP100147,Research Mobile Covers,Electronics,Mobile Covers,2820.49,37,1776.91,1.0,3001,78,"Thompson, Mcdaniel and Smith",Smithberg,Oregon,5,Yes,2024-08-30
+MP100148,Very Jeans,Fashion,Jeans,2371.07,38,1470.06,1.4,2112,34,"Ellis, Peterson and Hamilton",Lake Stacy,Vermont,5,No,2024-08-19
+MP100149,Radio Decor,Home & Kitchen,Decor,297.55,31,205.31,1.1,2470,0,Fitzgerald Ltd,Ramosside,Connecticut,8,Yes,2024-10-12
+MP100150,Get Earphones,Electronics,Earphones,1586.59,25,1189.94,2.8,2909,58,Thornton Group,East Danielhaven,Nevada,5,No,2024-11-04
+MP100151,Vote Bedsheets,Home & Kitchen,Bedsheets,131.17,42,76.08,1.9,4082,60,Benjamin-Sanders,Robersonburgh,Mississippi,9,No,2024-12-22
+MP100152,Natural Jeans,Fashion,Jeans,442.04,37,278.49,4.7,2326,79,Leonard-Parsons,Davidview,Montana,8,No,2024-09-04
+MP100153,Idea Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2695.27,26,1994.5,3.9,3674,84,Collins-Casey,Sheltonbury,Georgia,2,No,2024-11-09
+MP100154,Capital Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2780.86,16,2335.92,3.0,1076,39,"Fuller, Hicks and Martin",Cannontown,Alabama,9,Yes,2025-03-03
+MP100155,Modern Bags,Accessories,Bags,116.05,11,103.28,1.4,1984,85,Bell-Tapia,Josephville,Florida,10,No,2024-08-09
+MP100156,My Sarees,Fashion,Sarees,985.83,48,512.63,2.7,2454,44,Warner Ltd,Lake Alanchester,South Dakota,5,Yes,2024-10-15
+MP100157,Hand Kurtis,Fashion,Kurtis,255.96,35,166.37,1.8,3908,3,Baker-Rodriguez,Port Tracyland,Louisiana,6,No,2025-05-26
+MP100158,Human Jewelry,Accessories,Jewelry,358.19,35,232.82,3.2,758,25,Norris Inc,Port Amanda,Wyoming,9,Yes,2025-05-21
+MP100159,Item Chargers,Electronics,Chargers,1872.66,40,1123.6,3.5,2424,98,"Lee, Parsons and Baker",Johnsonside,Tennessee,4,No,2025-01-17
+MP100160,Dog T-Shirts,Fashion,T-Shirts,522.05,33,349.77,2.4,3952,8,Schmitt-Blankenship,Ashleyport,Louisiana,8,Yes,2025-02-19
+MP100161,Main Mobile Covers,Electronics,Mobile Covers,2637.22,48,1371.35,2.5,1863,90,Holt-Bullock,Newmanton,Kansas,4,Yes,2024-10-20
+MP100162,Identify Personal Care,Beauty & Health,Personal Care,2239.64,6,2105.26,3.2,4259,79,"Mercer, Jordan and Carson",Johnport,Nevada,4,No,2025-04-21
+MP100163,Give Mobile Covers,Electronics,Mobile Covers,2720.51,46,1469.08,3.2,2461,26,"Norris, Carter and Barrett",South Hannah,Georgia,9,No,2024-09-07
+MP100164,Accept Haircare,Beauty & Health,Haircare,2081.48,41,1228.07,1.6,730,27,"Washington, Jones and Barron",Port Daniel,Rhode Island,7,Yes,2025-07-09
+MP100165,According Cleaning Supplies,Home & Kitchen,Cleaning Supplies,604.22,20,483.38,1.8,1435,36,Lucas-Garcia,North Jeremiahport,Oregon,7,Yes,2025-07-22
+MP100166,Behavior Bags,Accessories,Bags,1543.33,19,1250.1,3.4,3950,65,Beard PLC,Shawborough,Oregon,2,No,2025-02-10
+MP100167,Boy Bedsheets,Home & Kitchen,Bedsheets,1627.82,52,781.35,3.6,4109,91,Morales and Sons,Morsestad,Connecticut,3,Yes,2025-03-27
+MP100168,Political Earphones,Electronics,Earphones,1008.76,56,443.85,1.9,4262,38,"Collins, Rosales and Cabrera",South Angela,Utah,7,Yes,2025-04-27
+MP100169,Rule Dresses,Fashion,Dresses,2735.33,20,2188.26,1.4,4766,94,"Williams, Craig and Smith",Tamaramouth,Indiana,3,No,2024-09-26
+MP100170,His Jeans,Fashion,Jeans,865.81,49,441.56,2.0,760,52,"Jackson, Molina and Henson",Rosefort,Oregon,4,Yes,2024-10-14
+MP100171,Charge Watches,Accessories,Watches,100.48,25,75.36,3.8,4038,36,Thompson Inc,Melissastad,Vermont,8,No,2025-07-10
+MP100172,Product Sarees,Fashion,Sarees,2723.35,47,1443.38,2.8,4019,97,Guerrero Inc,Derekton,Illinois,7,No,2025-01-03
+MP100173,Three Personal Care,Beauty & Health,Personal Care,562.91,40,337.75,1.8,4866,36,Nichols Inc,Nunezberg,Washington,9,Yes,2025-07-02
+MP100174,Suddenly Sarees,Fashion,Sarees,2734.52,24,2078.24,1.7,208,18,Kirk Group,Brettborough,Louisiana,9,Yes,2025-01-24
+MP100175,Rest Smartwatches,Electronics,Smartwatches,369.97,58,155.39,4.5,4665,46,Garcia-Smith,Fredmouth,New Hampshire,2,Yes,2025-04-22
+MP100176,Teacher Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1074.94,56,472.97,5.0,3437,64,Valdez-Lee,Brookeland,Delaware,10,Yes,2025-03-31
+MP100177,Work Mobile Covers,Electronics,Mobile Covers,1021.81,5,970.72,2.2,4015,82,Reid-Davis,Kathyhaven,Illinois,5,No,2024-11-25
+MP100178,Step Curtains,Home & Kitchen,Curtains,2502.2,26,1851.63,2.8,4083,24,Jones Ltd,South Michael,Tennessee,7,No,2025-01-12
+MP100179,Production Belts,Accessories,Belts,815.17,34,538.01,4.6,551,95,Rowe PLC,Wallstad,California,5,No,2025-05-18
+MP100180,Tv Sunglasses,Accessories,Sunglasses,2397.71,20,1918.17,1.7,3877,99,"Davidson, Morgan and Diaz",Wheelerland,Wyoming,10,No,2024-09-28
+MP100181,Quite Makeup,Beauty & Health,Makeup,390.74,25,293.06,3.6,4070,65,"Rodgers, Mclaughlin and Johnson",East Philliptown,New Jersey,9,No,2025-02-07
+MP100182,Agency Belts,Accessories,Belts,2566.33,19,2078.73,2.1,859,52,"Lawrence, Steele and Martinez",Jacksonshire,Ohio,5,Yes,2025-03-08
+MP100183,Feeling Makeup,Beauty & Health,Makeup,665.96,6,626.0,2.2,1743,5,Pope and Sons,West Susanshire,Kentucky,7,Yes,2024-08-04
+MP100184,Book Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1929.69,6,1813.91,3.6,2102,100,Gonzalez-Harris,Port Samanthaland,Virginia,2,No,2025-02-06
+MP100185,Charge Cookware,Home & Kitchen,Cookware,1398.41,10,1258.57,4.7,1189,38,Green-Marshall,South Susan,Georgia,5,No,2025-02-21
+MP100186,Through Chargers,Electronics,Chargers,188.57,38,116.91,4.1,2987,31,Smith Ltd,Marshallchester,Arizona,2,No,2025-06-19
+MP100187,Break Bags,Accessories,Bags,1278.04,33,856.29,3.9,487,89,"Jackson, Schmidt and Hunter",Robertmouth,Missouri,5,No,2024-12-08
+MP100188,Voice Personal Care,Beauty & Health,Personal Care,630.7,31,435.18,4.6,4510,17,Bradley Group,Cantrellville,Connecticut,2,No,2025-03-02
+MP100189,Stage Jewelry,Accessories,Jewelry,2017.82,15,1715.15,3.6,4048,75,"Mata, Russo and Mayer",Keithbury,Connecticut,4,No,2025-04-16
+MP100190,Record Decor,Home & Kitchen,Decor,2463.77,35,1601.45,1.4,3283,40,Sloan Inc,Shawnport,Utah,6,Yes,2024-11-28
+MP100191,High Bags,Accessories,Bags,651.71,30,456.2,4.8,1089,81,Holland Group,South Samuel,Florida,9,Yes,2024-11-25
+MP100192,Reality Chargers,Electronics,Chargers,2481.61,19,2010.1,4.0,1600,75,"Gilbert, Moore and Meyers",Melissahaven,Nebraska,5,No,2024-12-14
+MP100193,Bag Decor,Home & Kitchen,Decor,946.69,54,435.48,2.6,4961,98,"Kelley, Duke and Pena",Williamshaven,Arkansas,8,No,2024-09-19
+MP100194,So Mobile Covers,Electronics,Mobile Covers,1180.55,20,944.44,2.8,3452,31,"Wilson, Moore and Becker",Johnathanmouth,North Carolina,4,Yes,2025-04-26
+MP100195,Beautiful Sarees,Fashion,Sarees,1132.35,17,939.85,1.5,1671,0,Allen-Carroll,West Charlesland,Oklahoma,6,No,2025-04-26
+MP100196,None Bags,Accessories,Bags,282.8,24,214.93,3.9,3219,5,Hutchinson Ltd,Philiptown,Maryland,5,No,2025-02-26
+MP100197,Condition Haircare,Beauty & Health,Haircare,1485.41,39,906.1,1.3,461,13,Jones-Tucker,Hallton,Colorado,4,Yes,2024-10-16
+MP100198,Choice Dresses,Fashion,Dresses,2304.49,60,921.8,2.3,997,66,James Group,East Michaelchester,Rhode Island,6,Yes,2024-09-30
+MP100199,Enough Dresses,Fashion,Dresses,345.2,19,279.61,4.6,1057,36,Castro and Sons,Guerreroberg,Washington,4,No,2024-11-20
+MP100200,Body Haircare,Beauty & Health,Haircare,854.72,6,803.44,4.7,342,12,Willis Group,North Ryan,Wisconsin,3,No,2025-03-12
+MP100201,Try Sarees,Fashion,Sarees,1396.54,28,1005.51,4.9,979,46,"Dunn, Mcbride and Lee",Stoneside,Maine,10,No,2025-03-04
+MP100202,Tree Belts,Accessories,Belts,586.35,49,299.04,1.8,2141,33,Owens-Peterson,Josephchester,Delaware,9,No,2024-11-17
+MP100203,Sometimes Dresses,Fashion,Dresses,171.54,34,113.22,4.2,1497,82,Fields PLC,Lake Curtisview,Arizona,2,No,2025-07-13
+MP100204,Class Dresses,Fashion,Dresses,2691.52,45,1480.34,3.7,4362,56,"Phillips, Martin and Garcia",Mosleymouth,South Dakota,9,No,2025-02-07
+MP100205,Special Mobile Covers,Electronics,Mobile Covers,2258.1,20,1806.48,1.4,2070,67,Cooley Ltd,Nicoletown,New Mexico,3,Yes,2025-03-30
+MP100206,Help Smartwatches,Electronics,Smartwatches,1474.81,36,943.88,2.5,4092,45,Edwards-Alexander,East Lisaville,Louisiana,4,Yes,2025-03-31
+MP100207,Fund Earphones,Electronics,Earphones,1272.69,22,992.7,2.1,4467,6,Armstrong-Lin,Port Erictown,Rhode Island,10,No,2024-12-07
+MP100208,Those Haircare,Beauty & Health,Haircare,1324.22,14,1138.83,1.6,2726,70,"Dennis, Rivera and Wilson",Nicholasborough,Ohio,10,Yes,2024-09-24
+MP100209,Meet T-Shirts,Fashion,T-Shirts,2780.8,18,2280.26,4.1,4609,33,Davis-Walker,Sextonton,New Jersey,8,No,2025-07-08
+MP100210,Standard Decor,Home & Kitchen,Decor,1063.89,46,574.5,2.8,3775,35,Beck and Sons,Richardbury,Connecticut,7,Yes,2024-12-25
+MP100211,Lawyer Haircare,Beauty & Health,Haircare,1597.16,24,1213.84,3.8,3005,90,"Oconnell, Saunders and Brewer",Lake Tonyville,Alaska,7,Yes,2024-12-07
+MP100212,According Bags,Accessories,Bags,1337.02,49,681.88,2.7,1631,8,"Russell, Hobbs and Harrington",Angietown,Michigan,3,No,2025-05-18
+MP100213,Her Mobile Covers,Electronics,Mobile Covers,1366.84,56,601.41,1.1,514,99,Gill Inc,Davisport,Wyoming,6,No,2025-07-07
+MP100214,Late Sarees,Fashion,Sarees,482.56,16,405.35,1.8,1833,37,"Martin, Bautista and Herring",New Keith,Idaho,8,Yes,2024-09-24
+MP100215,Our Personal Care,Beauty & Health,Personal Care,1569.15,16,1318.09,4.3,1168,22,Woods-Crawford,Torresmouth,Arizona,5,Yes,2025-01-04
+MP100216,Edge Smartwatches,Electronics,Smartwatches,1032.14,17,856.68,1.7,2907,97,Maxwell Ltd,Jordanmouth,Iowa,4,Yes,2025-02-28
+MP100217,As Makeup,Beauty & Health,Makeup,859.16,10,773.24,1.9,4734,66,Evans-Hutchinson,West Thomasbury,Oregon,3,No,2024-09-27
+MP100218,Wrong Decor,Home & Kitchen,Decor,1266.13,15,1076.21,1.2,234,36,Ellis-Moore,Morrisstad,Illinois,9,No,2024-09-16
+MP100219,Person Curtains,Home & Kitchen,Curtains,1485.35,17,1232.84,4.2,54,15,Estrada-Walker,Veronicaberg,Massachusetts,10,Yes,2024-09-17
+MP100220,Official Smartwatches,Electronics,Smartwatches,233.1,53,109.56,2.8,1754,96,Trevino Inc,Lake Michael,Connecticut,9,Yes,2024-08-17
+MP100221,Between Chargers,Electronics,Chargers,476.72,25,357.54,2.3,2399,69,Jones-Bradley,South Jason,Virginia,10,Yes,2024-12-01
+MP100222,Several Jeans,Fashion,Jeans,2084.79,30,1459.35,2.1,2970,52,"Cummings, Mendoza and Martin",Bishopview,Kansas,8,Yes,2024-08-25
+MP100223,Price Mobile Covers,Electronics,Mobile Covers,1420.23,6,1335.02,3.4,3564,30,"Robinson, Mata and Quinn",South Timothyberg,Connecticut,4,Yes,2024-08-07
+MP100224,Yourself Skincare,Beauty & Health,Skincare,2974.98,21,2350.23,4.7,257,14,"Alvarado, Jones and Kaufman",Poncestad,Alaska,2,No,2025-05-16
+MP100225,Space Decor,Home & Kitchen,Decor,2921.75,47,1548.53,3.5,1161,57,"Porter, Avila and Bradley",Geoffreyton,Arizona,7,Yes,2024-08-27
+MP100226,Far Smartwatches,Electronics,Smartwatches,1216.7,36,778.69,3.2,4617,21,Manning PLC,Leebury,Nebraska,2,No,2025-03-28
+MP100227,Great Curtains,Home & Kitchen,Curtains,1195.21,47,633.46,1.4,141,16,"Arellano, Mcneil and Neal",Port Kiarahaven,New York,9,No,2024-08-08
+MP100228,Particular Smartwatches,Electronics,Smartwatches,467.13,5,443.77,3.8,4152,97,Morris Group,South Julie,Georgia,8,No,2025-05-12
+MP100229,Treatment Personal Care,Beauty & Health,Personal Care,2506.45,47,1328.42,2.8,2432,32,"Ho, King and Ray",Port Kelseymouth,Mississippi,8,Yes,2025-04-02
+MP100230,Drug Smartwatches,Electronics,Smartwatches,1135.92,20,908.74,2.3,3759,97,Howard and Sons,Chaneyview,Delaware,5,No,2024-09-09
+MP100231,Those Earphones,Electronics,Earphones,283.25,9,257.76,3.6,3342,15,Gentry-Lane,Baileyville,Georgia,8,Yes,2025-03-02
+MP100232,Dream Bedsheets,Home & Kitchen,Bedsheets,1761.15,27,1285.64,4.3,4749,79,Graves and Sons,Mendezshire,North Dakota,7,No,2025-03-13
+MP100233,Education Haircare,Beauty & Health,Haircare,1092.97,38,677.64,1.6,1233,40,Simpson LLC,New Lauren,Florida,10,No,2025-06-06
+MP100234,Perhaps Earphones,Electronics,Earphones,344.68,31,237.83,4.9,3995,5,West PLC,Mendozamouth,Wyoming,10,Yes,2024-10-20
+MP100235,Meet Skincare,Beauty & Health,Skincare,1801.83,57,774.79,2.3,2607,86,Chen-Jones,Port Scottberg,New York,3,Yes,2025-03-14
+MP100236,Tax Smartwatches,Electronics,Smartwatches,1494.47,38,926.57,2.1,2579,82,Miller-Cooper,Lake Johnside,California,10,Yes,2024-11-16
+MP100237,Science Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1203.46,59,493.42,2.2,2334,51,Wells-James,West Stacy,Nevada,2,No,2025-04-25
+MP100238,Young Cleaning Supplies,Home & Kitchen,Cleaning Supplies,429.74,8,395.36,2.0,1515,41,Shepherd Group,West Eric,Michigan,5,No,2025-01-16
+MP100239,Street Smartwatches,Electronics,Smartwatches,1545.67,29,1097.43,2.8,2995,72,Jordan and Sons,Robersonport,Massachusetts,6,No,2025-05-07
+MP100240,Institution Kurtis,Fashion,Kurtis,187.58,11,166.95,1.8,4248,16,"Payne, Kennedy and Williams",South Angela,Minnesota,7,No,2024-12-06
+MP100241,Bar Sarees,Fashion,Sarees,2843.8,44,1592.53,2.3,2423,77,Anderson PLC,Briantown,Maryland,3,Yes,2025-02-04
+MP100242,Two Kurtis,Fashion,Kurtis,2533.69,19,2052.29,3.6,3391,15,"Adams, Blackburn and Mckenzie",North William,Montana,6,Yes,2025-05-30
+MP100243,Guy Sarees,Fashion,Sarees,2088.69,7,1942.48,1.8,1109,11,Reynolds PLC,Port Kaylaside,South Carolina,7,Yes,2025-03-20
+MP100244,Prove Mobile Covers,Electronics,Mobile Covers,1175.56,7,1093.27,3.9,4152,29,White LLC,Lake Luisside,Oklahoma,9,No,2024-10-27
+MP100245,Let Makeup,Beauty & Health,Makeup,1918.66,25,1439.0,1.7,4821,30,Hawkins-Young,Mitchellchester,Mississippi,7,Yes,2024-09-13
+MP100246,Avoid Earphones,Electronics,Earphones,2549.12,16,2141.26,1.9,4285,45,"Lopez, Walker and Clark",North Jacobfort,Pennsylvania,7,No,2025-01-01
+MP100247,Most Jeans,Fashion,Jeans,2873.19,60,1149.28,1.6,136,92,Robinson-Kidd,West Andrewmouth,Tennessee,3,No,2025-01-11
+MP100248,Save Skincare,Beauty & Health,Skincare,1696.05,54,780.18,2.0,3706,79,Simon-Spencer,Bellland,New Jersey,4,Yes,2024-07-22
+MP100249,Trade Decor,Home & Kitchen,Decor,2073.4,30,1451.38,2.7,1537,98,"Matthews, Gallagher and Thompson",Jackieburgh,Tennessee,6,No,2025-06-16
+MP100250,Lay Haircare,Beauty & Health,Haircare,2808.74,57,1207.76,2.3,3496,47,Morris-Perry,Jacquelinebury,Indiana,7,Yes,2025-02-01
+MP100251,Your Belts,Accessories,Belts,2090.55,39,1275.24,4.2,3966,100,Buchanan-Brown,Christinestad,Utah,6,No,2025-05-19
+MP100252,Trouble Haircare,Beauty & Health,Haircare,1578.46,15,1341.69,1.0,3058,77,David PLC,Cruzfort,Missouri,8,No,2024-09-08
+MP100253,Behind Kurtis,Fashion,Kurtis,459.28,20,367.42,4.2,13,26,"Grant, Edwards and Berry",Shawnhaven,Rhode Island,3,No,2025-04-16
+MP100254,Do Jewelry,Accessories,Jewelry,2457.85,57,1056.88,3.1,2557,99,Brewer and Sons,Kimtown,Arizona,7,Yes,2024-12-21
+MP100255,Pull Sunglasses,Accessories,Sunglasses,2720.27,50,1360.13,3.6,4194,55,"Walters, Anderson and Franco",Cindyborough,Arizona,8,No,2025-01-07
+MP100256,Them Dresses,Fashion,Dresses,604.67,59,247.91,1.1,1395,89,Wilson PLC,South Nicole,South Carolina,7,Yes,2025-03-14
+MP100257,Often Bags,Accessories,Bags,1256.74,40,754.04,2.8,1004,48,"Salinas, Green and Caldwell",New Madeline,New Mexico,4,Yes,2024-11-10
+MP100258,Water Jewelry,Accessories,Jewelry,971.27,11,864.43,3.2,4664,9,Sweeney-Faulkner,West Cassidy,Texas,7,Yes,2025-03-16
+MP100259,Possible Decor,Home & Kitchen,Decor,2167.18,50,1083.59,4.8,4544,28,Curry-Watkins,South Zachary,Tennessee,6,No,2024-12-27
+MP100260,Kid Earphones,Electronics,Earphones,2234.81,27,1631.41,1.1,1692,60,Williams and Sons,Bellside,Oklahoma,6,No,2025-07-13
+MP100261,Beat Kurtis,Fashion,Kurtis,286.82,54,131.94,3.3,2768,44,Fritz Group,Yolandaville,Maryland,7,Yes,2025-04-21
+MP100262,Right Haircare,Beauty & Health,Haircare,2241.57,42,1300.11,1.3,1018,46,Pena PLC,Port Ashleychester,Washington,10,Yes,2024-09-06
+MP100263,Explain Belts,Accessories,Belts,2440.58,8,2245.33,2.8,3038,69,Dean-Ward,Sherryville,Oregon,9,No,2024-10-15
+MP100264,Talk Personal Care,Beauty & Health,Personal Care,1452.34,58,609.98,4.1,2003,89,Taylor and Sons,West Justinstad,Oregon,5,Yes,2025-04-22
+MP100265,Adult Dresses,Fashion,Dresses,2062.01,25,1546.51,2.3,2747,66,"Morgan, Stokes and Morgan",East Jo,Colorado,8,Yes,2025-03-08
+MP100266,Number Skincare,Beauty & Health,Skincare,2333.37,20,1866.7,1.7,19,25,Yang Ltd,Lake Lauraborough,Pennsylvania,7,No,2025-04-18
+MP100267,Author Bags,Accessories,Bags,333.73,48,173.54,2.8,2381,19,Maddox LLC,Leton,Oklahoma,2,Yes,2025-03-06
+MP100268,Manager Sarees,Fashion,Sarees,1734.01,23,1335.19,2.1,2061,82,"Huang, Collins and Lynch",Lake Chelsea,Maryland,4,Yes,2024-11-05
+MP100269,Cut Bedsheets,Home & Kitchen,Bedsheets,1409.69,20,1127.75,1.3,1672,1,Owens Ltd,Saraland,Rhode Island,5,No,2025-03-08
+MP100270,Leg Haircare,Beauty & Health,Haircare,2784.81,38,1726.58,2.4,2327,30,Russell-Carey,Lake Brendatown,Idaho,5,No,2024-10-14
+MP100271,Goal Mobile Covers,Electronics,Mobile Covers,2965.08,19,2401.71,3.1,3545,43,"Smith, Marshall and Gilbert",Port Sophiaberg,Pennsylvania,6,No,2024-09-28
+MP100272,Data Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2691.38,47,1426.43,3.7,3009,51,Dillon Ltd,Johnbury,Hawaii,6,Yes,2024-09-09
+MP100273,View Personal Care,Beauty & Health,Personal Care,193.5,18,158.67,1.3,4374,51,"Day, Sparks and Morris",Port Frankberg,Wisconsin,2,No,2024-07-29
+MP100274,Season Dresses,Fashion,Dresses,453.4,57,194.96,1.9,1751,79,Perez-Woods,Stanleyside,Missouri,4,Yes,2024-11-01
+MP100275,Reflect Cookware,Home & Kitchen,Cookware,753.74,10,678.37,3.3,1493,27,Anderson-Malone,East Charlesmouth,North Carolina,5,Yes,2024-08-02
+MP100276,Move Bedsheets,Home & Kitchen,Bedsheets,290.02,35,188.51,4.5,1812,46,Mendez-Ward,North Cristinafort,Wyoming,4,Yes,2024-10-09
+MP100277,See Haircare,Beauty & Health,Haircare,801.96,7,745.82,2.1,1494,27,Johnson PLC,New Cassandraport,Ohio,8,Yes,2025-01-13
+MP100278,Continue Jewelry,Accessories,Jewelry,1566.86,18,1284.83,3.5,456,58,Johnson-Miller,Burnettmouth,Kentucky,10,No,2024-08-11
+MP100279,Senior Jeans,Fashion,Jeans,984.14,19,797.15,1.3,2157,12,"Melendez, Patterson and Bryant",Walkerchester,Missouri,4,No,2025-06-09
+MP100280,Action T-Shirts,Fashion,T-Shirts,1365.77,10,1229.19,3.9,3801,81,"Reed, Thomas and Brady",Ballardfort,Florida,7,Yes,2025-04-12
+MP100281,Include Mobile Covers,Electronics,Mobile Covers,1001.79,38,621.11,1.5,1942,80,Robbins-Lambert,Phamfort,Wyoming,4,No,2025-05-14
+MP100282,Hold Skincare,Beauty & Health,Skincare,2562.06,35,1665.34,3.5,1656,83,Smith-Thomas,Port Tiffanychester,Delaware,3,Yes,2025-02-03
+MP100283,Responsibility T-Shirts,Fashion,T-Shirts,540.47,37,340.5,2.2,3806,56,Gregory-Sims,Daisyland,California,3,Yes,2025-05-12
+MP100284,Attack Smartwatches,Electronics,Smartwatches,500.64,59,205.26,4.4,2471,2,Grant LLC,Lake Michelleland,Idaho,7,Yes,2024-08-13
+MP100285,Worry Kurtis,Fashion,Kurtis,148.78,11,132.41,1.2,4288,9,Myers-Jones,Gregorymouth,Connecticut,7,Yes,2025-05-25
+MP100286,Market Sarees,Fashion,Sarees,2540.36,21,2006.88,1.5,3863,17,"Pitts, Waller and James",Jessicaberg,Connecticut,9,No,2024-08-02
+MP100287,Practice Dresses,Fashion,Dresses,184.14,11,163.88,2.9,2184,73,Stewart Ltd,Teresaberg,Alabama,8,No,2024-12-25
+MP100288,Size Sarees,Fashion,Sarees,1285.4,56,565.58,3.2,1290,95,"White, Lucas and Watts",Wilsonstad,Iowa,9,Yes,2025-04-26
+MP100289,Dream Makeup,Beauty & Health,Makeup,473.39,59,194.09,4.7,4315,98,Love Inc,Lake Nicholas,Kentucky,4,Yes,2025-02-27
+MP100290,Young Sarees,Fashion,Sarees,1925.52,16,1617.44,4.3,1659,81,"Davidson, Colon and Gibbs",Halltown,Virginia,4,No,2024-11-03
+MP100291,However Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2521.07,38,1563.06,1.4,2435,50,Clark-Dunn,Littlehaven,South Carolina,5,No,2025-02-20
+MP100292,Institution Bags,Accessories,Bags,2963.82,41,1748.65,3.1,1774,8,"Ramirez, Wilson and Patton",New Jessicaberg,Oregon,4,Yes,2025-04-15
+MP100293,Recently T-Shirts,Fashion,T-Shirts,2952.03,44,1653.14,3.9,2973,13,"Henderson, Smith and Webster",West Adamville,Michigan,10,No,2024-10-20
+MP100294,Discuss Bedsheets,Home & Kitchen,Bedsheets,655.4,32,445.67,1.9,1415,75,"Marshall, Taylor and Thompson",Sarahshire,Missouri,3,Yes,2024-09-20
+MP100295,Rate T-Shirts,Fashion,T-Shirts,593.64,38,368.06,2.6,4051,23,"Cameron, Montoya and Diaz",Meltonfurt,Washington,8,No,2024-08-15
+MP100296,Rich Bedsheets,Home & Kitchen,Bedsheets,2455.8,54,1129.67,3.6,1589,51,"Montgomery, Brooks and Wiggins",Richardport,Illinois,2,No,2025-03-27
+MP100297,Worry Chargers,Electronics,Chargers,653.98,15,555.88,1.2,3534,53,Oneill Inc,East Davidmouth,Alaska,3,Yes,2025-04-01
+MP100298,Significant Decor,Home & Kitchen,Decor,1372.1,5,1303.49,3.7,2240,34,Mcclure-Cohen,Robinfort,Vermont,7,Yes,2025-03-04
+MP100299,Others Kurtis,Fashion,Kurtis,1143.96,54,526.22,2.3,775,63,Carter-Porter,New Jameston,Arkansas,4,No,2025-04-30
+MP100300,Outside Jewelry,Accessories,Jewelry,893.11,43,509.07,4.4,1760,40,Romero-Ray,Sarahton,Iowa,6,Yes,2025-03-21
+MP100301,Project Cookware,Home & Kitchen,Cookware,904.73,14,778.07,1.7,4834,48,"Moran, Wilson and Thompson",Jerrymouth,Washington,3,No,2024-08-24
+MP100302,Exactly Bedsheets,Home & Kitchen,Bedsheets,1680.31,46,907.37,2.3,504,34,Salazar PLC,Friedmanmouth,Louisiana,10,No,2025-05-13
+MP100303,Maybe Decor,Home & Kitchen,Decor,765.43,19,620.0,4.3,28,87,"Robertson, Anderson and Sullivan",New Mary,Indiana,6,No,2024-11-26
+MP100304,Account Curtains,Home & Kitchen,Curtains,684.33,29,485.87,4.5,1213,1,Cabrera-Matthews,Joelport,Virginia,2,Yes,2025-07-06
+MP100305,Factor Mobile Covers,Electronics,Mobile Covers,1149.18,37,723.98,4.8,2011,7,Clark LLC,Jenniferburgh,Tennessee,6,No,2024-11-13
+MP100306,Break Chargers,Electronics,Chargers,907.43,42,526.31,2.2,1913,26,"Knight, Johnson and Brown",Walkerton,Kentucky,4,No,2025-02-19
+MP100307,By Personal Care,Beauty & Health,Personal Care,2218.43,51,1087.03,1.7,129,61,Guerrero and Sons,South Briantown,Idaho,9,Yes,2024-10-02
+MP100308,Campaign Curtains,Home & Kitchen,Curtains,1539.16,56,677.23,3.2,159,27,Anderson PLC,Mariaberg,Florida,4,Yes,2025-03-28
+MP100309,Do Smartwatches,Electronics,Smartwatches,2033.27,47,1077.63,3.3,26,17,David and Sons,Edwardsshire,Virginia,7,Yes,2025-03-30
+MP100310,Land Bedsheets,Home & Kitchen,Bedsheets,2115.21,16,1776.78,3.8,722,72,Wong-Franco,Scotthaven,Pennsylvania,6,No,2024-12-01
+MP100311,Game Bags,Accessories,Bags,573.43,27,418.6,3.3,4747,62,Lloyd-Franklin,Chanport,Rhode Island,10,No,2024-12-15
+MP100312,Color Curtains,Home & Kitchen,Curtains,2101.45,44,1176.81,4.4,3598,14,Kelly-Jimenez,East Kellyhaven,West Virginia,3,No,2024-12-30
+MP100313,By Bedsheets,Home & Kitchen,Bedsheets,2620.97,42,1520.16,1.3,4702,59,Porter-Garner,South Brentland,Missouri,9,Yes,2024-10-03
+MP100314,Discover Decor,Home & Kitchen,Decor,1900.66,58,798.28,2.6,1687,20,Marquez Inc,Millershire,Delaware,2,No,2025-04-29
+MP100315,Majority Belts,Accessories,Belts,616.87,7,573.69,1.2,864,73,Mccormick LLC,Hicksburgh,West Virginia,7,Yes,2025-01-30
+MP100316,Simply Mobile Covers,Electronics,Mobile Covers,2864.62,55,1289.08,2.6,743,75,Jacobs PLC,South Amandatown,Indiana,7,No,2025-06-21
+MP100317,Shoulder Chargers,Electronics,Chargers,631.35,42,366.18,2.0,3648,30,Wood PLC,Deannaland,Delaware,7,No,2024-07-22
+MP100318,Your Haircare,Beauty & Health,Haircare,230.14,32,156.5,2.0,4476,53,Price Group,Port William,Massachusetts,9,No,2025-05-10
+MP100319,Form Mobile Covers,Electronics,Mobile Covers,2582.73,18,2117.84,1.4,2097,15,Gibbs-Garcia,West Reginaburgh,Montana,10,No,2024-10-13
+MP100320,Leader Mobile Covers,Electronics,Mobile Covers,941.18,18,771.77,4.7,2424,2,Colon-Graham,Barrberg,Maryland,6,No,2024-12-24
+MP100321,Sister Earphones,Electronics,Earphones,2210.35,14,1900.9,2.0,3308,61,Stone LLC,Port Donald,Maine,10,Yes,2024-11-24
+MP100322,Sound Decor,Home & Kitchen,Decor,256.86,6,241.45,4.9,2892,26,"House, Smith and Payne",Paulville,Arizona,6,No,2024-10-13
+MP100323,Fill Chargers,Electronics,Chargers,1923.91,44,1077.39,3.0,4621,93,Russell PLC,Davisview,Georgia,7,No,2024-12-10
+MP100324,Card Cookware,Home & Kitchen,Cookware,2044.69,26,1513.07,3.8,185,44,Perez PLC,East Kristina,Arizona,4,No,2024-08-18
+MP100325,Hard Skincare,Beauty & Health,Skincare,2767.54,54,1273.07,3.9,386,23,Duffy-Bartlett,Matthewmouth,Alabama,6,Yes,2024-08-18
+MP100326,Several Haircare,Beauty & Health,Haircare,1958.39,15,1664.63,3.3,2391,2,Hernandez PLC,Jasonton,Minnesota,9,No,2024-09-01
+MP100327,How Dresses,Fashion,Dresses,1216.31,15,1033.86,1.8,2314,63,Bowman-Clark,Fergusonport,Maryland,4,No,2025-05-17
+MP100328,Region Sarees,Fashion,Sarees,1881.64,29,1335.96,2.7,1438,8,Mcintosh-Benton,East Juantown,Kansas,5,No,2025-07-20
+MP100329,Agree T-Shirts,Fashion,T-Shirts,1106.92,32,752.71,1.2,3449,19,"Nguyen, Weber and Hernandez",Edwardshaven,Pennsylvania,2,Yes,2025-07-18
+MP100330,Coach Haircare,Beauty & Health,Haircare,860.36,42,499.01,5.0,4950,44,Scott LLC,Diazmouth,Rhode Island,6,Yes,2025-03-14
+MP100331,Book Curtains,Home & Kitchen,Curtains,2192.41,52,1052.36,4.4,833,31,"Cooper, Martin and Hudson",West Daniel,Florida,10,Yes,2025-04-28
+MP100332,Quality Sarees,Fashion,Sarees,2061.49,57,886.44,2.6,1578,18,Avila Group,North Rodneyfurt,Tennessee,5,No,2025-03-17
+MP100333,Question Haircare,Beauty & Health,Haircare,2950.1,28,2124.07,3.0,1987,81,Harper Inc,North Christopherbury,Connecticut,2,No,2024-11-11
+MP100334,Let Bedsheets,Home & Kitchen,Bedsheets,1617.68,44,905.9,4.6,4791,66,"Benitez, Anderson and Alexander",West James,Massachusetts,8,No,2024-10-14
+MP100335,Conference Personal Care,Beauty & Health,Personal Care,1103.06,14,948.63,2.6,705,59,Jones Inc,New Brent,Tennessee,10,Yes,2025-02-04
+MP100336,Heavy T-Shirts,Fashion,T-Shirts,1444.57,35,938.97,2.9,4698,68,Black-Johnson,Leburgh,Mississippi,2,Yes,2024-11-20
+MP100337,Myself Sunglasses,Accessories,Sunglasses,980.0,53,460.6,2.7,1855,91,"Mendez, Foley and Vaughn",Mcdonaldberg,Michigan,6,No,2025-03-10
+MP100338,Modern Dresses,Fashion,Dresses,2078.84,44,1164.15,3.3,4854,13,"Maxwell, Daniel and Smith",Lake Daniel,North Dakota,10,No,2024-09-26
+MP100339,See Haircare,Beauty & Health,Haircare,278.04,44,155.7,1.1,2233,28,Harrison PLC,East Reneeside,Nevada,4,No,2025-01-06
+MP100340,Free Earphones,Electronics,Earphones,258.53,60,103.41,2.4,2973,32,Day-Smith,Troystad,Alabama,5,No,2024-08-31
+MP100341,Relate Belts,Accessories,Belts,636.62,60,254.65,3.8,4701,72,Bowman-Brown,Hortonside,New York,6,Yes,2024-09-08
+MP100342,Reflect Personal Care,Beauty & Health,Personal Care,2668.83,36,1708.05,4.8,2980,57,"Robinson, Mitchell and Williams",South Kristin,West Virginia,9,Yes,2025-06-13
+MP100343,Leg Earphones,Electronics,Earphones,2130.94,31,1470.35,4.1,846,43,"Robertson, Pennington and Vaughn",Johnmouth,Massachusetts,7,Yes,2025-05-11
+MP100344,Interview Decor,Home & Kitchen,Decor,223.78,33,149.93,4.2,1279,7,Woods LLC,Daltonhaven,Illinois,3,Yes,2025-06-11
+MP100345,Or Bedsheets,Home & Kitchen,Bedsheets,1589.52,25,1192.14,2.6,4232,6,Brown-Garcia,Priceland,Connecticut,8,Yes,2025-05-23
+MP100346,Outside Skincare,Beauty & Health,Skincare,2493.71,49,1271.79,1.1,1245,30,"Robinson, Silva and Perez",South Michelle,Wyoming,5,Yes,2024-11-08
+MP100347,Hour Earphones,Electronics,Earphones,838.33,51,410.78,2.0,4444,53,"Johnson, Allen and Rodriguez",North Phillipchester,Alaska,10,No,2025-01-16
+MP100348,Past Earphones,Electronics,Earphones,1033.95,59,423.92,2.1,924,74,"Baker, Cline and Smith",New Davidland,Michigan,6,No,2024-08-27
+MP100349,Ready Mobile Covers,Electronics,Mobile Covers,1845.24,43,1051.79,3.5,2184,13,"Espinoza, Glenn and West",Lake Kimberly,Nebraska,6,No,2024-07-22
+MP100350,Community Smartwatches,Electronics,Smartwatches,2446.87,31,1688.34,3.7,4813,79,Gonzalez LLC,Mooretown,Nevada,4,Yes,2024-12-27
+MP100351,Evidence Bags,Accessories,Bags,2526.35,41,1490.55,1.3,4064,95,Perkins-Edwards,Dayport,Massachusetts,9,Yes,2024-07-24
+MP100352,Fly Makeup,Beauty & Health,Makeup,138.28,7,128.6,3.2,2122,66,Perez-Lang,Port Carolyn,South Dakota,5,No,2024-11-26
+MP100353,Address Haircare,Beauty & Health,Haircare,682.06,9,620.67,4.5,610,63,Lane-Morgan,Sextonberg,Arkansas,6,Yes,2024-07-27
+MP100354,Short Smartwatches,Electronics,Smartwatches,1611.8,26,1192.73,3.0,4172,94,"White, Jones and Henderson",South Danielleshire,Pennsylvania,5,Yes,2024-11-06
+MP100355,Despite T-Shirts,Fashion,T-Shirts,1066.92,48,554.8,2.4,3812,56,Thomas Group,Hooverchester,Nevada,4,Yes,2025-02-10
+MP100356,Few Bags,Accessories,Bags,1520.84,40,912.5,1.8,6,49,"Anderson, Green and Avery",Aaronburgh,North Dakota,4,No,2025-03-13
+MP100357,Town Mobile Covers,Electronics,Mobile Covers,2890.04,38,1791.82,1.8,903,64,Cooper-Harrell,East Annatown,Idaho,5,No,2024-12-03
+MP100358,Risk Haircare,Beauty & Health,Haircare,2298.42,48,1195.18,3.5,4356,19,Cruz and Sons,Hodgeburgh,Maine,8,No,2024-08-01
+MP100359,Dog T-Shirts,Fashion,T-Shirts,1078.34,12,948.94,2.0,247,11,Jones-Browning,Dorseyfort,Idaho,10,Yes,2025-06-22
+MP100360,Better T-Shirts,Fashion,T-Shirts,810.4,20,648.32,4.9,2568,63,"Carroll, Adams and Washington",Madisonburgh,South Carolina,7,No,2025-06-29
+MP100361,Police Haircare,Beauty & Health,Haircare,1488.27,55,669.72,3.3,1902,94,"Harrington, Lawson and Rodriguez",Port Rachelville,Kansas,8,Yes,2025-07-10
+MP100362,Moment Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2841.28,58,1193.34,1.3,930,50,Mccoy-Jones,North Rebeccamouth,Massachusetts,5,No,2025-02-09
+MP100363,Budget Jeans,Fashion,Jeans,829.02,37,522.28,4.8,886,9,"Larsen, Brown and Thompson",Zacharychester,Rhode Island,7,No,2024-11-28
+MP100364,Teacher Watches,Accessories,Watches,2709.43,18,2221.73,3.8,2470,56,Gutierrez-Ayala,Guzmanton,Colorado,10,No,2025-02-23
+MP100365,Guy Smartwatches,Electronics,Smartwatches,1654.68,51,810.79,1.8,4577,55,Cruz Ltd,Kyleburgh,South Dakota,6,No,2024-09-23
+MP100366,Attorney Jeans,Fashion,Jeans,1285.37,52,616.98,3.3,534,53,Watson Ltd,East Rhondaburgh,Maryland,4,No,2024-09-25
+MP100367,Hospital Smartwatches,Electronics,Smartwatches,1774.72,37,1118.07,4.0,457,89,Larson PLC,Davishaven,New Mexico,2,No,2024-12-28
+MP100368,Game Cookware,Home & Kitchen,Cookware,540.94,18,443.57,4.5,2486,48,"Hunt, Davis and Berry",Stephanieshire,Connecticut,3,No,2025-01-11
+MP100369,Least Earphones,Electronics,Earphones,903.12,54,415.44,2.8,1870,38,Baker Group,Davidside,Nevada,2,No,2024-10-05
+MP100370,Sell Jeans,Fashion,Jeans,2101.25,30,1470.88,3.6,4278,98,"Cook, Espinoza and Hall",Mcdonaldborough,Maryland,6,Yes,2024-09-15
+MP100371,Down Bedsheets,Home & Kitchen,Bedsheets,1965.75,17,1631.57,2.7,4243,51,Flores-Wright,North Seanberg,Texas,10,Yes,2025-03-16
+MP100372,Nor Kurtis,Fashion,Kurtis,2647.81,54,1217.99,3.4,3492,17,"Perez, Cowan and Williams",East Michaelstad,Montana,3,Yes,2025-02-15
+MP100373,Entire Cookware,Home & Kitchen,Cookware,514.22,31,354.81,3.1,512,64,"Small, Glover and Pollard",West Cynthiamouth,Connecticut,8,No,2024-12-10
+MP100374,Sit Haircare,Beauty & Health,Haircare,1723.64,14,1482.33,3.4,1414,56,"Juarez, Chung and Sanders",Port Gwendolynfurt,Connecticut,7,Yes,2024-11-13
+MP100375,Half Kurtis,Fashion,Kurtis,999.76,35,649.84,3.7,27,69,"Kelly, Brown and Norris",Port Mark,South Carolina,10,Yes,2024-09-21
+MP100376,Tough Chargers,Electronics,Chargers,1806.3,15,1535.36,2.9,1595,52,Mccarty PLC,Justinfort,Idaho,4,Yes,2025-05-21
+MP100377,Throw Jewelry,Accessories,Jewelry,2921.74,48,1519.3,1.8,1204,15,Collier and Sons,Lake Pamelastad,Colorado,6,Yes,2025-03-30
+MP100378,Well Decor,Home & Kitchen,Decor,198.17,36,126.83,2.3,4857,61,Anderson-Ramos,South Johnny,Utah,9,Yes,2025-03-17
+MP100379,Politics T-Shirts,Fashion,T-Shirts,2174.64,47,1152.56,2.2,1698,19,Parker Ltd,West Jaredtown,Illinois,10,No,2025-05-13
+MP100380,Surface Skincare,Beauty & Health,Skincare,2566.64,49,1308.99,1.4,4716,99,"Bryant, Williams and Marshall",Evansside,Massachusetts,2,No,2025-03-14
+MP100381,Company Sarees,Fashion,Sarees,2666.97,41,1573.51,2.7,2385,59,"Mcgee, Frank and Velez",East Brooke,Wyoming,2,Yes,2025-04-28
+MP100382,Every Chargers,Electronics,Chargers,1191.71,60,476.68,1.1,4911,98,Taylor-Nixon,Port Michellehaven,Massachusetts,10,No,2024-08-14
+MP100383,Enjoy Skincare,Beauty & Health,Skincare,478.49,46,258.38,4.3,406,0,Mccann Group,Adamsside,New Jersey,7,Yes,2025-02-26
+MP100384,Onto Skincare,Beauty & Health,Skincare,2551.89,12,2245.66,4.0,247,91,Nguyen-Schmitt,Evanburgh,New York,6,No,2025-04-29
+MP100385,Country Bedsheets,Home & Kitchen,Bedsheets,287.81,18,236.0,1.0,3810,53,Williamson Inc,East Melissa,Hawaii,6,No,2025-01-03
+MP100386,Strong Skincare,Beauty & Health,Skincare,221.4,28,159.41,3.0,4035,1,Stewart and Sons,Lake Cory,Nebraska,2,No,2025-01-09
+MP100387,Community Jewelry,Accessories,Jewelry,1291.15,60,516.46,3.3,4864,55,"Wilson, Nelson and Quinn",Lake James,Alaska,9,Yes,2024-09-28
+MP100388,Performance Dresses,Fashion,Dresses,251.86,20,201.49,2.0,4224,14,Reese-Osborne,Estradatown,Nevada,3,Yes,2024-09-22
+MP100389,Evidence Cookware,Home & Kitchen,Cookware,2581.29,17,2142.47,3.5,2487,18,Green Group,North Jeremyville,California,6,Yes,2024-12-04
+MP100390,In Jewelry,Accessories,Jewelry,1868.15,10,1681.34,2.0,2412,83,Clements LLC,Port Kimberlyton,West Virginia,8,Yes,2024-09-24
+MP100391,Simply Bedsheets,Home & Kitchen,Bedsheets,496.06,27,362.12,3.2,3607,73,"Fields, Gonzales and Mitchell",Heatherchester,Idaho,2,Yes,2025-04-04
+MP100392,Usually Jewelry,Accessories,Jewelry,1872.82,40,1123.69,2.4,944,36,Gonzalez Group,Lake Jesse,Maryland,4,No,2024-10-05
+MP100393,Travel Skincare,Beauty & Health,Skincare,350.03,13,304.53,4.6,2408,76,Duncan Group,Lake Vincentchester,Michigan,10,No,2025-03-08
+MP100394,Rest Makeup,Beauty & Health,Makeup,2341.62,60,936.65,2.9,3690,2,"Williams, Smith and Jimenez",Roachhaven,Missouri,8,No,2024-11-28
+MP100395,Several Bedsheets,Home & Kitchen,Bedsheets,855.32,6,804.0,4.9,4045,49,Anderson PLC,Jamesberg,Indiana,3,No,2025-05-11
+MP100396,Win Haircare,Beauty & Health,Haircare,2616.36,33,1752.96,4.9,4087,26,Harrington Ltd,Port Joshua,Delaware,6,Yes,2024-08-08
+MP100397,Decade Belts,Accessories,Belts,2743.12,22,2139.63,3.1,2030,26,Wilson-Pineda,Lake Seanberg,Florida,10,No,2025-03-22
+MP100398,Office Sunglasses,Accessories,Sunglasses,1797.88,48,934.9,2.3,4135,53,Jackson and Sons,Curtiston,Wyoming,5,Yes,2024-07-31
+MP100399,Same Earphones,Electronics,Earphones,1801.47,48,936.76,1.2,615,15,"Schneider, Garcia and Bishop",Lake Melissa,South Carolina,7,No,2025-03-23
+MP100400,Chance Haircare,Beauty & Health,Haircare,507.99,24,386.07,3.0,1856,66,"Pratt, Espinoza and Woodard",West Morganborough,Oklahoma,8,Yes,2025-04-19
+MP100401,Energy Sarees,Fashion,Sarees,2480.01,19,2008.81,4.5,3558,68,"Wilcox, Hall and Huber",North Anthonyburgh,Hawaii,10,Yes,2025-06-10
+MP100402,Message Personal Care,Beauty & Health,Personal Care,2732.1,45,1502.65,4.6,3424,86,"Conrad, Russell and Rogers",New David,Maine,6,No,2025-07-14
+MP100403,Agree Decor,Home & Kitchen,Decor,344.77,21,272.37,1.5,1826,38,Jackson-Reid,East Matthew,North Carolina,9,No,2024-11-16
+MP100404,Site Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1021.46,39,623.09,4.1,4341,47,Washington-Haynes,New Allen,Florida,9,Yes,2025-01-28
+MP100405,Than Smartwatches,Electronics,Smartwatches,2838.99,47,1504.66,1.5,2635,31,Patterson-Myers,West Tara,California,7,Yes,2025-06-09
+MP100406,Police Sunglasses,Accessories,Sunglasses,747.15,41,440.82,4.4,3402,15,Noble LLC,Lauramouth,Alaska,7,Yes,2024-10-29
+MP100407,Painting Earphones,Electronics,Earphones,1404.45,26,1039.29,1.5,291,59,Petersen Inc,Ashleybury,South Dakota,10,No,2025-06-05
+MP100408,That Jewelry,Accessories,Jewelry,1892.15,21,1494.8,3.6,1074,67,"Mitchell, Avila and Gomez",North Brandifurt,Minnesota,5,No,2024-10-14
+MP100409,Contain Belts,Accessories,Belts,2172.72,9,1977.18,4.2,177,54,"Walton, Michael and Watkins",Donaldhaven,Ohio,10,No,2025-06-10
+MP100410,Figure Chargers,Electronics,Chargers,2335.71,36,1494.85,3.7,694,56,York-Ayers,West Christinastad,Alabama,9,No,2024-08-13
+MP100411,Eye Chargers,Electronics,Chargers,2598.0,50,1299.0,1.2,2212,8,Wiggins Group,Brianshire,Hawaii,3,Yes,2025-07-10
+MP100412,Camera Jeans,Fashion,Jeans,1602.14,40,961.28,3.5,2630,40,Gutierrez-Woodard,Hallhaven,Alaska,10,Yes,2025-04-01
+MP100413,Name Jewelry,Accessories,Jewelry,2958.9,6,2781.37,3.7,338,15,Page PLC,Port Jeremy,Oklahoma,8,No,2024-10-17
+MP100414,North Personal Care,Beauty & Health,Personal Care,1430.74,19,1158.9,1.7,1969,88,"Harrington, Sloan and Cole",Bauerport,West Virginia,7,Yes,2024-10-05
+MP100415,Difference Dresses,Fashion,Dresses,2762.92,10,2486.63,4.7,2460,12,Johnson-Pena,Barbarastad,South Carolina,2,No,2025-03-06
+MP100416,Office Curtains,Home & Kitchen,Curtains,1139.16,23,877.15,4.2,4968,40,George-Martin,Deanbury,Virginia,9,Yes,2024-08-31
+MP100417,Force Cookware,Home & Kitchen,Cookware,1729.79,35,1124.36,3.2,2430,100,"Choi, Brown and Manning",South Nicholasview,Michigan,4,Yes,2025-02-17
+MP100418,Politics Dresses,Fashion,Dresses,879.72,50,439.86,1.5,1995,8,Golden-Powell,New Scott,Illinois,3,No,2024-07-24
+MP100419,Talk Decor,Home & Kitchen,Decor,2402.32,16,2017.95,1.8,1940,27,"Kennedy, Stevens and Conrad",Lake Daryl,Alabama,9,No,2024-10-15
+MP100420,Door Mobile Covers,Electronics,Mobile Covers,440.83,21,348.26,2.2,2664,27,Ramirez Inc,Perezview,Utah,2,Yes,2025-05-19
+MP100421,Them Earphones,Electronics,Earphones,513.15,29,364.34,2.6,3452,94,White-Weeks,South Antonio,New Jersey,2,No,2024-07-22
+MP100422,Season Cookware,Home & Kitchen,Cookware,1327.0,12,1167.76,2.2,3607,87,Garcia-Green,West Morgan,New York,9,Yes,2025-02-26
+MP100423,By Makeup,Beauty & Health,Makeup,1270.15,49,647.78,4.3,1880,3,Smith Ltd,Pamelahaven,Arkansas,6,No,2025-03-19
+MP100424,Within Jewelry,Accessories,Jewelry,2203.66,54,1013.68,3.2,1942,41,"Joseph, Miller and Hill",Andrewborough,New Mexico,5,Yes,2024-10-29
+MP100425,Identify Personal Care,Beauty & Health,Personal Care,664.1,31,458.23,4.7,3655,81,Blackwell LLC,Trevinoborough,New Hampshire,2,No,2025-03-24
+MP100426,Free Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1475.48,39,900.04,3.4,4689,5,"Phillips, Thomas and Long",Blakeland,Minnesota,6,Yes,2025-01-11
+MP100427,Debate Cookware,Home & Kitchen,Cookware,2045.13,20,1636.1,3.7,3794,10,Mcmillan Inc,Port Dannyborough,Pennsylvania,3,Yes,2024-11-11
+MP100428,Appear Belts,Accessories,Belts,2129.81,37,1341.78,3.8,2395,2,"Friedman, King and Gonzalez",Cheyenneland,Alaska,3,Yes,2024-10-25
+MP100429,Together Haircare,Beauty & Health,Haircare,2576.82,51,1262.64,1.2,1445,44,"Montoya, Bradley and Vega",North George,Nebraska,6,No,2025-04-24
+MP100430,Owner Smartwatches,Electronics,Smartwatches,2027.86,45,1115.32,4.9,1372,42,"Allen, Mckenzie and Barton",Moraleston,Ohio,6,Yes,2025-03-09
+MP100431,Exactly Makeup,Beauty & Health,Makeup,1474.6,14,1268.16,5.0,1224,20,Reynolds PLC,Garrettside,Pennsylvania,8,No,2025-01-31
+MP100432,Catch Personal Care,Beauty & Health,Personal Care,1250.96,53,587.95,3.7,1388,60,"Hunt, Jackson and Harris",North Sharonbury,Alabama,8,Yes,2025-02-21
+MP100433,Color Jewelry,Accessories,Jewelry,2270.23,8,2088.61,2.4,3909,49,"Waters, Harding and Flores",North Alexisland,New Mexico,2,Yes,2025-03-23
+MP100434,Quite Bags,Accessories,Bags,2223.93,23,1712.43,4.1,3960,39,Clark Inc,South Molly,Montana,10,Yes,2025-05-03
+MP100435,Provide Decor,Home & Kitchen,Decor,2280.98,14,1961.64,3.1,2101,43,Marshall Ltd,Port Justin,Nebraska,8,Yes,2025-07-14
+MP100436,Discuss Cleaning Supplies,Home & Kitchen,Cleaning Supplies,322.42,14,277.28,1.9,1415,20,Bean-Evans,South Tracyhaven,Oklahoma,9,No,2024-10-16
+MP100437,Wide Cookware,Home & Kitchen,Cookware,2529.62,48,1315.4,3.7,869,30,Fischer-Foster,Cuevasborough,New Jersey,7,Yes,2024-09-18
+MP100438,Career Dresses,Fashion,Dresses,170.73,12,150.24,4.6,4122,74,"Garcia, Brooks and Byrd",Port Lori,Colorado,5,Yes,2025-01-14
+MP100439,Region Sarees,Fashion,Sarees,1854.76,25,1391.07,2.1,4967,68,Harrington-Cooper,Kristinaland,Ohio,7,Yes,2025-04-18
+MP100440,Baby Sunglasses,Accessories,Sunglasses,2155.11,22,1680.99,2.5,2359,59,Garza PLC,Whitestad,Nebraska,3,No,2024-09-21
+MP100441,Most Haircare,Beauty & Health,Haircare,949.47,26,702.61,3.6,1418,77,Fitzpatrick and Sons,North Edward,Mississippi,6,Yes,2025-05-12
+MP100442,Market Belts,Accessories,Belts,2050.36,20,1640.29,3.8,1772,51,Reed Inc,New Christopher,New Mexico,4,No,2025-04-18
+MP100443,Thousand Bags,Accessories,Bags,779.8,24,592.65,1.7,2877,46,"Chambers, Miller and Jones",North Anthonyburgh,North Carolina,8,Yes,2025-06-01
+MP100444,Try Smartwatches,Electronics,Smartwatches,2517.01,57,1082.31,2.3,2572,95,Hobbs-Russo,Mayton,Michigan,9,No,2025-03-07
+MP100445,Marriage Smartwatches,Electronics,Smartwatches,2508.26,58,1053.47,4.3,3595,60,"Brennan, Bridges and Grant",South John,Ohio,3,Yes,2025-05-20
+MP100446,Bring Haircare,Beauty & Health,Haircare,1976.44,36,1264.92,2.7,2135,64,Mitchell-Wilson,Lake Jodi,Kentucky,10,No,2025-06-11
+MP100447,Social Bedsheets,Home & Kitchen,Bedsheets,692.89,40,415.73,3.2,1879,55,Hughes PLC,Chambersview,Oklahoma,2,No,2025-05-24
+MP100448,Dog Skincare,Beauty & Health,Skincare,390.22,27,284.86,4.1,3711,85,Lee Ltd,East Melissa,Iowa,10,No,2025-03-11
+MP100449,Dark Kurtis,Fashion,Kurtis,1152.65,18,945.17,2.3,4742,79,Hall-Cain,South Traci,Delaware,4,Yes,2024-08-22
+MP100450,Perform Personal Care,Beauty & Health,Personal Care,1730.47,46,934.45,1.4,242,21,Sullivan PLC,South Shanetown,Missouri,8,No,2024-08-29
+MP100451,This Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1153.38,52,553.62,1.7,4163,51,"Jensen, Marshall and Robinson",Christinamouth,Hawaii,4,No,2025-04-18
+MP100452,Phone Sarees,Fashion,Sarees,2208.3,14,1899.14,1.5,2552,17,"Ramirez, Singh and Matthews",Justinton,Arizona,8,No,2025-07-19
+MP100453,Participant Sarees,Fashion,Sarees,1592.37,11,1417.21,4.5,1540,93,Gregory-Nguyen,Jasminborough,Oklahoma,10,Yes,2024-12-21
+MP100454,Low Chargers,Electronics,Chargers,1491.09,31,1028.85,2.5,1357,53,Johnson and Sons,South Paul,Kansas,6,Yes,2024-10-24
+MP100455,Newspaper Kurtis,Fashion,Kurtis,2953.4,53,1388.1,3.6,4968,74,Santana-Johnson,Ronaldton,New York,7,No,2025-01-25
+MP100456,During Dresses,Fashion,Dresses,2932.49,50,1466.24,4.2,4215,58,Rivas-Fuller,Kathrynberg,Montana,2,No,2024-07-22
+MP100457,Look Decor,Home & Kitchen,Decor,2975.1,56,1309.04,3.1,1358,63,"Casey, Foster and Ruiz",Denniston,Illinois,2,Yes,2025-06-08
+MP100458,First Skincare,Beauty & Health,Skincare,2318.99,43,1321.82,1.3,2727,13,Coleman Ltd,Port Tyler,West Virginia,8,Yes,2025-05-14
+MP100459,We Makeup,Beauty & Health,Makeup,1408.62,25,1056.46,2.9,4382,91,White PLC,Lake Adam,New Hampshire,6,No,2024-11-01
+MP100460,Wall Chargers,Electronics,Chargers,1472.97,58,618.65,2.1,56,59,"Greene, Crosby and Mcdonald",East Jenny,Missouri,8,Yes,2025-07-10
+MP100461,Which Kurtis,Fashion,Kurtis,2904.91,16,2440.12,2.6,4012,65,Anderson PLC,Ryanchester,South Dakota,4,No,2025-03-29
+MP100462,Up Dresses,Fashion,Dresses,1515.76,41,894.3,1.2,1516,95,Sanders Group,Harrisfurt,Vermont,8,Yes,2024-08-31
+MP100463,Total Cookware,Home & Kitchen,Cookware,2760.5,13,2401.63,3.5,1628,45,Miller-Mitchell,South Williambury,Wyoming,2,No,2024-11-01
+MP100464,Fast Haircare,Beauty & Health,Haircare,2793.02,38,1731.67,1.3,2373,63,Turner LLC,South Lori,Arizona,2,Yes,2025-05-21
+MP100465,Summer Belts,Accessories,Belts,197.99,53,93.06,3.4,4605,50,Graham-Thomas,Lake Justin,Hawaii,5,No,2025-04-11
+MP100466,Someone Curtains,Home & Kitchen,Curtains,1609.7,7,1497.02,2.9,2843,54,Kline Ltd,North Kelseyview,Arizona,10,No,2025-01-31
+MP100467,Education Jewelry,Accessories,Jewelry,637.82,31,440.1,1.1,1001,44,Miller and Sons,Andrewtown,Iowa,3,Yes,2025-04-03
+MP100468,News Watches,Accessories,Watches,1501.61,20,1201.29,3.5,1372,65,"Wood, Atkins and Wilson",Kimberlyville,Illinois,5,Yes,2024-08-04
+MP100469,Practice T-Shirts,Fashion,T-Shirts,144.16,23,111.0,3.2,4110,16,Parker-Myers,East Seanport,Florida,3,No,2024-08-21
+MP100470,Meeting Sarees,Fashion,Sarees,2708.44,32,1841.74,1.5,1434,53,Ferrell-Cline,Cuevasshire,Kansas,3,Yes,2025-03-21
+MP100471,Congress Makeup,Beauty & Health,Makeup,1398.65,46,755.27,2.7,4614,32,"Marquez, Vaughan and Martinez",Donnastad,Alaska,7,No,2025-05-27
+MP100472,Story Dresses,Fashion,Dresses,1666.47,42,966.55,2.3,1645,25,"Erickson, Reese and Smith",West Erin,Hawaii,7,Yes,2025-02-15
+MP100473,Explain Earphones,Electronics,Earphones,455.19,7,423.33,2.4,1254,74,Hurley and Sons,Matthewhaven,Missouri,9,Yes,2025-06-10
+MP100474,Bill Haircare,Beauty & Health,Haircare,2908.13,33,1948.45,2.4,667,98,Green and Sons,New Juanmouth,New York,10,Yes,2024-08-30
+MP100475,Happy Cleaning Supplies,Home & Kitchen,Cleaning Supplies,348.32,47,184.61,2.5,1445,97,Ramos-Flores,Ballshire,Oklahoma,9,Yes,2025-02-18
+MP100476,Public Kurtis,Fashion,Kurtis,1906.08,57,819.61,2.0,1286,70,Ramos-Alexander,New Sherri,South Dakota,5,No,2025-04-08
+MP100477,Serious Bags,Accessories,Bags,1897.56,33,1271.37,4.0,4081,10,Carrillo-Coleman,Port Joseborough,Wisconsin,4,No,2025-03-08
+MP100478,Affect Skincare,Beauty & Health,Skincare,1332.75,5,1266.11,1.8,440,8,Baker-Green,Gregoryland,Michigan,9,No,2025-01-17
+MP100479,Impact Chargers,Electronics,Chargers,2965.6,39,1809.02,1.1,457,82,Smith Group,Lake Alyssa,Illinois,6,Yes,2024-12-04
+MP100480,Source Watches,Accessories,Watches,1191.99,17,989.35,1.9,850,71,Kirby-Townsend,Lake Leviborough,Wyoming,9,No,2025-05-20
+MP100481,Difference T-Shirts,Fashion,T-Shirts,2579.99,28,1857.59,3.0,255,80,Smith and Sons,Davidsonmouth,Minnesota,9,Yes,2024-11-03
+MP100482,Plan Belts,Accessories,Belts,726.11,55,326.75,4.3,415,85,"Everett, Hayden and Wilson",Kristinville,New Hampshire,6,No,2025-04-27
+MP100483,East Mobile Covers,Electronics,Mobile Covers,2691.07,35,1749.2,1.4,864,5,Castillo-Johnson,West Lisaville,Ohio,7,Yes,2025-05-24
+MP100484,Include Earphones,Electronics,Earphones,361.66,41,213.38,1.9,761,23,Perez-Miller,Kevinfort,New Jersey,4,No,2024-09-27
+MP100485,Compare Jeans,Fashion,Jeans,1619.25,8,1489.71,3.9,4171,46,Jensen-Anderson,Roberttown,Georgia,6,No,2024-09-19
+MP100486,May Mobile Covers,Electronics,Mobile Covers,1559.27,5,1481.31,3.3,1598,87,Miller Group,Port Alyssashire,North Dakota,2,No,2025-02-26
+MP100487,Occur Kurtis,Fashion,Kurtis,2005.07,50,1002.53,2.9,1617,70,"Young, Ellis and Bennett",Samuelmouth,Florida,3,No,2025-04-07
+MP100488,Significant Cookware,Home & Kitchen,Cookware,1453.27,24,1104.49,2.2,15,19,"Lin, Robinson and Wagner",South Kevinmouth,Rhode Island,6,No,2025-07-15
+MP100489,Prevent Kurtis,Fashion,Kurtis,2758.38,52,1324.02,2.0,2664,26,"Reyes, Scott and Marquez",New Robert,Wisconsin,7,No,2025-07-07
+MP100490,Fight Sarees,Fashion,Sarees,2835.79,30,1985.05,3.7,3216,1,Farmer-Edwards,Floreshaven,South Dakota,3,No,2024-10-31
+MP100491,Father Makeup,Beauty & Health,Makeup,2438.6,53,1146.14,3.3,1496,13,"Lewis, Thomas and Hammond",Shepherdton,Tennessee,8,No,2024-11-12
+MP100492,Eight Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2683.38,44,1502.69,4.8,623,6,Jackson-Walters,Thomasmouth,Massachusetts,9,No,2024-09-25
+MP100493,Office Mobile Covers,Electronics,Mobile Covers,983.6,5,934.42,1.3,350,97,"Ryan, Arellano and Ward",Lake Jessica,Alaska,7,Yes,2025-07-02
+MP100494,Usually Kurtis,Fashion,Kurtis,185.55,56,81.64,4.4,2553,31,Ortiz-Riddle,Shannonhaven,Arkansas,6,No,2025-01-18
+MP100495,Season Sarees,Fashion,Sarees,305.97,58,128.51,1.4,3379,28,"Jones, Adams and Bass",New Kimberly,Wyoming,9,Yes,2025-04-20
+MP100496,Group Smartwatches,Electronics,Smartwatches,588.05,11,523.36,4.8,1614,31,Richmond-Lee,Mauriceshire,Pennsylvania,7,Yes,2025-04-02
+MP100497,Soon Dresses,Fashion,Dresses,927.95,42,538.21,4.3,4386,54,Mclaughlin-Moore,Kyleside,Indiana,4,Yes,2024-12-04
+MP100498,Should Jewelry,Accessories,Jewelry,312.1,29,221.59,1.1,3680,7,Richard-Moody,Port Jaredborough,Minnesota,5,Yes,2025-01-24
+MP100499,Condition Haircare,Beauty & Health,Haircare,449.16,21,354.84,4.9,3840,59,Reed and Sons,North Courtney,Ohio,8,No,2024-09-07
+MP100500,Girl Personal Care,Beauty & Health,Personal Care,1481.75,48,770.51,2.7,4937,39,"Archer, Montoya and Williamson",North Angelastad,New Hampshire,3,Yes,2024-08-07
+MP100501,Cell Sarees,Fashion,Sarees,535.36,52,256.97,4.9,3155,20,Chavez-Miller,Jeffreytown,Wisconsin,5,No,2024-09-27
+MP100502,Remain Mobile Covers,Electronics,Mobile Covers,2679.73,10,2411.76,1.1,863,85,"Aguilar, Johnson and Lewis",Medinaberg,Georgia,5,Yes,2025-07-12
+MP100503,Technology Haircare,Beauty & Health,Haircare,519.06,47,275.1,3.1,3810,83,"Taylor, Foster and Little",Charlotteview,Louisiana,8,Yes,2025-06-21
+MP100504,Yourself Bedsheets,Home & Kitchen,Bedsheets,2563.82,54,1179.36,4.5,789,67,Floyd PLC,South Mathewberg,Massachusetts,4,No,2024-11-10
+MP100505,Decade Haircare,Beauty & Health,Haircare,1845.34,33,1236.38,2.2,4186,38,Perez-James,Marcusborough,West Virginia,7,No,2024-10-20
+MP100506,Thought Curtains,Home & Kitchen,Curtains,191.57,58,80.46,1.8,4124,40,Peterson and Sons,Jasmineberg,Hawaii,10,No,2025-07-19
+MP100507,Available Jeans,Fashion,Jeans,2149.31,10,1934.38,3.1,1430,19,"Garcia, Kelly and Lawrence",East Michaeltown,Missouri,6,No,2024-08-08
+MP100508,Without Earphones,Electronics,Earphones,2929.89,36,1875.13,2.9,3162,81,"Holmes, Roberts and Gentry",Lake James,Minnesota,3,Yes,2025-04-28
+MP100509,Traditional Decor,Home & Kitchen,Decor,1396.13,25,1047.1,4.7,737,20,Mendoza-Davidson,Angelamouth,New Hampshire,2,Yes,2025-07-13
+MP100510,Itself Curtains,Home & Kitchen,Curtains,1876.36,42,1088.29,2.4,548,23,Huber LLC,South Deborahfurt,Texas,4,Yes,2025-06-27
+MP100511,Debate Chargers,Electronics,Chargers,1491.9,43,850.38,4.4,4200,45,"Richardson, Jones and Williams",Bradmouth,Wyoming,9,No,2025-04-12
+MP100512,Her Jeans,Fashion,Jeans,1588.41,52,762.44,4.5,1906,76,Ross Group,Parkerstad,Maine,2,Yes,2025-07-03
+MP100513,West Earphones,Electronics,Earphones,1311.62,9,1193.57,2.7,1125,2,Phillips Ltd,Sheppardfurt,Montana,3,No,2025-01-06
+MP100514,Society T-Shirts,Fashion,T-Shirts,1711.99,11,1523.67,1.0,4356,55,Parrish Group,North Randy,Alabama,5,No,2025-06-16
+MP100515,Smile Decor,Home & Kitchen,Decor,119.08,58,50.01,3.1,1422,61,"Alvarado, Alvarado and Adams",Phillipsshire,Connecticut,4,No,2025-04-26
+MP100516,Might Makeup,Beauty & Health,Makeup,703.54,21,555.8,3.7,4363,68,Gutierrez-Ortiz,Simston,New York,4,No,2024-09-23
+MP100517,Line Makeup,Beauty & Health,Makeup,1716.31,58,720.85,2.8,3738,62,Spears Group,East Zacharyshire,Wyoming,4,Yes,2025-06-06
+MP100518,Break Skincare,Beauty & Health,Skincare,2683.01,5,2548.86,4.1,562,93,Mcgee-Pierce,West Misty,Texas,7,Yes,2025-06-05
+MP100519,Key Dresses,Fashion,Dresses,1464.74,23,1127.85,1.2,3089,87,Duffy-Hernandez,South Amy,Tennessee,8,No,2025-07-07
+MP100520,New T-Shirts,Fashion,T-Shirts,1636.37,40,981.82,4.6,314,47,"Jones, Brown and Knapp",Patelhaven,Wyoming,10,No,2025-02-26
+MP100521,Cell Decor,Home & Kitchen,Decor,1436.6,41,847.59,3.6,2180,18,Fox-Hart,Margaretstad,West Virginia,8,Yes,2025-06-28
+MP100522,Sometimes Sarees,Fashion,Sarees,1749.99,6,1644.99,4.1,631,84,Burke-Riley,Ericchester,Hawaii,7,No,2025-04-01
+MP100523,Before Jewelry,Accessories,Jewelry,321.55,54,147.91,2.6,1551,46,Gutierrez and Sons,East David,North Dakota,9,Yes,2024-08-25
+MP100524,Against Smartwatches,Electronics,Smartwatches,2532.82,32,1722.32,3.3,4221,33,Wright-Walton,Wheelerport,Nebraska,8,Yes,2024-11-05
+MP100525,Total Kurtis,Fashion,Kurtis,1279.81,18,1049.44,3.2,515,18,Hill-Robinson,Tinafurt,Delaware,2,Yes,2025-06-10
+MP100526,Anyone T-Shirts,Fashion,T-Shirts,178.57,17,148.21,1.4,415,66,Browning-Owens,South Denise,Tennessee,6,Yes,2025-06-13
+MP100527,Partner Decor,Home & Kitchen,Decor,481.69,40,289.01,1.6,4867,26,Cruz-Baker,West Valerie,Wyoming,3,Yes,2024-11-23
+MP100528,Operation Mobile Covers,Electronics,Mobile Covers,1862.74,20,1490.19,3.7,735,90,Ross-Mcdaniel,West Leslie,West Virginia,2,Yes,2025-01-24
+MP100529,Economic Personal Care,Beauty & Health,Personal Care,1610.21,12,1416.98,2.9,4494,62,Johnson PLC,West Anthony,Texas,10,Yes,2025-01-07
+MP100530,She Sarees,Fashion,Sarees,2503.78,10,2253.4,1.6,3808,72,Hawkins-Brown,Lewisside,Connecticut,9,Yes,2025-01-07
+MP100531,Use Jewelry,Accessories,Jewelry,640.73,47,339.59,4.5,3840,99,Nelson PLC,Davidfurt,South Carolina,8,Yes,2025-06-30
+MP100532,Culture T-Shirts,Fashion,T-Shirts,1013.03,47,536.91,2.1,4934,17,Moyer-Collins,North Robin,Maine,5,No,2024-09-16
+MP100533,Inside Earphones,Electronics,Earphones,2413.19,6,2268.4,2.3,4763,19,Banks-Smith,Davidhaven,Massachusetts,5,No,2025-01-25
+MP100534,These Earphones,Electronics,Earphones,839.81,5,797.82,1.6,4641,76,Fletcher-Young,East Loganchester,Massachusetts,7,Yes,2024-10-18
+MP100535,While Earphones,Electronics,Earphones,1133.0,30,793.1,4.6,959,97,Simpson-Harper,Gomezmouth,Wyoming,10,No,2025-03-23
+MP100536,Respond Curtains,Home & Kitchen,Curtains,1889.38,10,1700.44,2.7,4937,59,Davis Group,West Manuelville,Iowa,2,Yes,2025-07-21
+MP100537,Bed Sunglasses,Accessories,Sunglasses,2820.47,48,1466.64,3.5,2705,49,Flynn-Walsh,South Bradleytown,Alaska,4,No,2024-10-09
+MP100538,Reality Chargers,Electronics,Chargers,952.41,27,695.26,3.5,2633,53,"Young, Shaffer and Rowe",South Daniellemouth,Wisconsin,5,Yes,2025-03-09
+MP100539,Also Personal Care,Beauty & Health,Personal Care,2796.16,50,1398.08,1.2,3051,69,Butler-Miller,South Kristinstad,Kansas,9,Yes,2025-04-15
+MP100540,Simply Chargers,Electronics,Chargers,231.11,19,187.2,2.7,3789,52,"Graham, Brown and Hunter",North Mariaview,Oklahoma,9,No,2024-09-03
+MP100541,Pressure Cookware,Home & Kitchen,Cookware,2602.31,53,1223.09,1.6,2183,61,Farmer-Martin,North Jonbury,Kansas,2,No,2025-04-13
+MP100542,This Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1121.05,13,975.31,4.8,1894,80,Strong-Gallagher,Hebertstad,South Dakota,8,No,2025-04-02
+MP100543,Air Sarees,Fashion,Sarees,1932.29,40,1159.37,1.0,4419,5,Evans Ltd,Brownhaven,Tennessee,7,Yes,2025-07-16
+MP100544,Official Bedsheets,Home & Kitchen,Bedsheets,813.07,13,707.37,1.6,4359,32,Stone-Adams,New Brandonshire,North Dakota,8,Yes,2025-02-05
+MP100545,Help Curtains,Home & Kitchen,Curtains,2357.91,35,1532.64,3.9,4693,42,Mayer LLC,Lake Rachel,West Virginia,3,Yes,2024-11-02
+MP100546,Pull Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1478.23,57,635.64,1.6,264,24,"Hunter, Olsen and Rose",Port Julie,Rhode Island,5,No,2024-09-02
+MP100547,Would Curtains,Home & Kitchen,Curtains,591.36,47,313.42,4.9,2444,23,Foster-Jones,South Kim,Arizona,4,No,2025-04-02
+MP100548,Family Curtains,Home & Kitchen,Curtains,2567.71,9,2336.62,1.8,1479,31,"Weaver, Manning and Nelson",Kevinmouth,Alaska,9,No,2025-06-04
+MP100549,Finally Kurtis,Fashion,Kurtis,1257.33,14,1081.3,2.5,1516,70,"Downs, Johnson and Rogers",South Susanmouth,Vermont,5,No,2025-01-11
+MP100550,Rise Mobile Covers,Electronics,Mobile Covers,2612.85,5,2482.21,4.9,4149,59,"Horne, Johnson and Ramos",Dyershire,Tennessee,6,Yes,2024-11-17
+MP100551,Table Curtains,Home & Kitchen,Curtains,1653.0,28,1190.16,4.8,449,29,"Morris, Ray and Jones",Port Julieville,Georgia,5,No,2024-10-26
+MP100552,Meet Watches,Accessories,Watches,2611.54,59,1070.73,3.6,3552,43,Hall-Miller,Nelsonborough,Missouri,4,Yes,2024-10-24
+MP100553,No Haircare,Beauty & Health,Haircare,1451.7,22,1132.33,4.4,4256,24,Mann-Hill,Priceborough,Virginia,3,No,2025-05-05
+MP100554,Us Earphones,Electronics,Earphones,1478.26,49,753.91,4.4,3331,76,Cook Group,Hodgestown,Montana,7,Yes,2024-08-19
+MP100555,Stay Bags,Accessories,Bags,2968.87,21,2345.41,3.5,2837,4,"Richardson, Gibson and Vega",Bakerhaven,West Virginia,9,Yes,2025-05-17
+MP100556,Present Bedsheets,Home & Kitchen,Bedsheets,2025.0,45,1113.75,1.9,4945,60,Robinson-Lopez,East Charlesmouth,California,7,No,2024-09-22
+MP100557,Or Earphones,Electronics,Earphones,892.02,9,811.74,1.4,2648,28,White Group,Port Tracyfort,Montana,10,Yes,2024-12-31
+MP100558,Change Bags,Accessories,Bags,2256.1,8,2075.61,2.1,198,52,"Mendoza, Mendez and Shah",South Mary,Hawaii,6,No,2025-05-13
+MP100559,Natural Chargers,Electronics,Chargers,989.88,19,801.8,3.1,2756,72,Hardin Group,Mooreview,New Hampshire,2,No,2025-07-07
+MP100560,Direction Kurtis,Fashion,Kurtis,2172.75,33,1455.74,4.4,4637,69,Chan-Ray,Ryantown,Rhode Island,6,No,2025-05-15
+MP100561,Guy Kurtis,Fashion,Kurtis,792.54,21,626.11,2.5,4754,56,"Warner, Vasquez and Peterson",West Michael,Idaho,6,No,2024-10-20
+MP100562,Culture Jewelry,Accessories,Jewelry,2168.05,12,1907.88,4.8,2574,52,"Peterson, Johnson and Nixon",Port Joel,North Dakota,8,Yes,2025-01-25
+MP100563,Current Kurtis,Fashion,Kurtis,665.77,41,392.8,3.2,4882,83,Harris-Wood,West Leslie,North Dakota,8,No,2024-11-22
+MP100564,Shoulder Dresses,Fashion,Dresses,2497.65,26,1848.26,4.8,3534,91,Soto Inc,Aaronfurt,Wisconsin,8,Yes,2024-09-04
+MP100565,Score Mobile Covers,Electronics,Mobile Covers,827.08,38,512.79,1.4,4373,75,Campbell PLC,Port Alyssa,Mississippi,5,Yes,2024-09-04
+MP100566,Play Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2934.1,7,2728.71,1.9,1289,17,Clay-Whitney,East Marvinview,South Dakota,4,Yes,2025-03-17
+MP100567,Although Belts,Accessories,Belts,2233.9,58,938.24,3.2,2074,45,Mills and Sons,West Joshuahaven,Nebraska,4,Yes,2024-08-26
+MP100568,Ago Earphones,Electronics,Earphones,813.17,21,642.4,1.7,2376,66,Woods-Morris,West Travisfort,Arizona,3,Yes,2024-12-25
+MP100569,Loss Mobile Covers,Electronics,Mobile Covers,801.82,56,352.8,2.3,277,52,"Robertson, Bell and Zavala",New Judithchester,Nevada,10,Yes,2025-07-22
+MP100570,Support Personal Care,Beauty & Health,Personal Care,1857.56,11,1653.23,2.5,4943,52,"King, Vaughn and Haynes",Port Joseph,Wisconsin,8,Yes,2024-11-26
+MP100571,Type Earphones,Electronics,Earphones,1441.23,24,1095.33,4.4,1507,15,"Freeman, Carter and Donovan",Karentown,Wyoming,5,No,2025-04-01
+MP100572,Financial Decor,Home & Kitchen,Decor,1475.35,5,1401.58,1.3,4415,82,"Dixon, Moore and Jones",North Catherinetown,Colorado,8,No,2024-09-23
+MP100573,I T-Shirts,Fashion,T-Shirts,2624.56,52,1259.79,4.5,2862,42,"Martinez, Gilbert and Martin",Jeffreystad,Massachusetts,5,Yes,2024-11-04
+MP100574,Give Skincare,Beauty & Health,Skincare,2504.13,40,1502.48,1.8,1317,68,Ballard Inc,Lake Sharonburgh,Ohio,5,No,2024-11-03
+MP100575,Would Sarees,Fashion,Sarees,1495.98,45,822.79,1.3,1181,6,Hernandez PLC,Hernandezview,Rhode Island,7,No,2025-06-05
+MP100576,Choose Belts,Accessories,Belts,184.12,34,121.52,5.0,1419,67,Perez-Dillon,Amandatown,New Hampshire,2,Yes,2025-06-02
+MP100577,Central Makeup,Beauty & Health,Makeup,1780.52,57,765.62,2.1,4,75,Ramirez and Sons,North Danielle,Washington,10,Yes,2025-01-22
+MP100578,Nothing Belts,Accessories,Belts,1252.32,31,864.1,3.6,1843,100,Morgan-Ryan,Dylanbury,Nebraska,9,No,2024-08-23
+MP100579,Office T-Shirts,Fashion,T-Shirts,1215.07,33,814.1,2.4,3622,69,Drake PLC,East Adam,Mississippi,7,No,2024-11-25
+MP100580,Station T-Shirts,Fashion,T-Shirts,929.83,13,808.95,4.9,2121,65,Roberts LLC,North William,Kentucky,4,Yes,2024-11-02
+MP100581,Six Jeans,Fashion,Jeans,2868.85,33,1922.13,4.4,4512,90,Baker Group,West Christopher,Oklahoma,7,No,2025-01-10
+MP100582,Skin T-Shirts,Fashion,T-Shirts,746.17,16,626.78,3.0,2729,50,White-Walters,North Christophershire,Colorado,8,No,2025-07-08
+MP100583,Son Mobile Covers,Electronics,Mobile Covers,2623.71,17,2177.68,1.3,4647,31,Garcia-Tyler,Parkerburgh,Minnesota,3,Yes,2025-02-26
+MP100584,Tax Curtains,Home & Kitchen,Curtains,2955.0,51,1447.95,3.6,2071,77,Patterson Group,Evelyntown,Texas,6,Yes,2025-03-10
+MP100585,Compare Belts,Accessories,Belts,2240.58,40,1344.35,2.4,1687,72,"Garrett, Cameron and Blair",Welchmouth,Colorado,3,No,2025-03-03
+MP100586,Vote Skincare,Beauty & Health,Skincare,1227.75,29,871.7,1.2,3457,100,Nguyen-Robinson,Johnsonton,Massachusetts,7,Yes,2025-03-15
+MP100587,Whatever Kurtis,Fashion,Kurtis,2427.6,54,1116.7,1.4,1687,1,"Hines, Evans and Benson",Port Kristin,Massachusetts,8,No,2024-08-04
+MP100588,Report Curtains,Home & Kitchen,Curtains,401.58,38,248.98,2.8,2062,31,Lewis PLC,Robertoton,Mississippi,10,No,2025-05-02
+MP100589,Professional Decor,Home & Kitchen,Decor,720.39,52,345.79,1.7,3555,42,Clark Group,Carterberg,Wisconsin,2,Yes,2025-06-24
+MP100590,Different Chargers,Electronics,Chargers,410.03,13,356.73,3.9,4136,63,Banks-Dalton,Daniellehaven,Louisiana,10,No,2024-12-21
+MP100591,Or Sarees,Fashion,Sarees,2502.35,52,1201.13,2.2,4819,2,Smith-Allen,Lake Bobbychester,New Jersey,10,No,2025-04-14
+MP100592,Trip Bedsheets,Home & Kitchen,Bedsheets,2292.81,39,1398.61,3.9,2467,64,Lowe and Sons,Annfort,Florida,3,No,2024-08-22
+MP100593,Important Smartwatches,Electronics,Smartwatches,2794.73,57,1201.73,1.0,4561,15,"Wilson, Douglas and Marks",Peterfurt,Ohio,2,Yes,2025-05-24
+MP100594,Relationship Cookware,Home & Kitchen,Cookware,2236.46,44,1252.42,1.8,3991,70,Anderson-Thompson,Danielfurt,Montana,9,No,2025-01-10
+MP100595,Financial Sunglasses,Accessories,Sunglasses,605.23,26,447.87,3.9,1220,78,Martin Inc,Port Scotthaven,Iowa,3,No,2025-03-13
+MP100596,Sometimes Watches,Accessories,Watches,2332.86,18,1912.95,4.6,463,63,"Rivera, Whitaker and Smith",East Paul,Oregon,5,Yes,2024-12-16
+MP100597,Animal Dresses,Fashion,Dresses,2349.11,38,1456.45,1.8,527,43,"Burke, Carter and Meadows",Lake Walter,Pennsylvania,7,No,2025-03-05
+MP100598,Job Decor,Home & Kitchen,Decor,696.85,8,641.1,1.4,816,7,Patterson LLC,Port Ronniechester,Rhode Island,8,Yes,2025-05-23
+MP100599,Develop Jeans,Fashion,Jeans,958.34,57,412.09,2.6,2194,45,Flores Group,Matthewfurt,Nebraska,2,Yes,2025-07-18
+MP100600,Make Bags,Accessories,Bags,1973.72,22,1539.5,2.8,2693,10,Santos-Yates,Tonyahaven,Louisiana,10,Yes,2024-07-29
+MP100601,Doctor Watches,Accessories,Watches,1778.27,41,1049.18,4.6,2769,44,Glover-Parker,New Sean,Colorado,6,No,2025-02-03
+MP100602,Bank T-Shirts,Fashion,T-Shirts,482.34,59,197.76,3.7,484,33,Nolan PLC,North Andreaport,Washington,8,No,2025-03-09
+MP100603,North Bedsheets,Home & Kitchen,Bedsheets,234.48,43,133.65,1.1,1126,78,"Anderson, Hernandez and Hall",South Thomasberg,Iowa,4,No,2025-06-29
+MP100604,Almost Personal Care,Beauty & Health,Personal Care,2999.13,43,1709.5,4.7,4681,7,Jackson Ltd,New Ronaldside,Florida,9,Yes,2025-04-15
+MP100605,Most Haircare,Beauty & Health,Haircare,1312.03,49,669.14,2.3,4290,68,Dougherty-Villa,East Davidburgh,California,6,No,2025-06-21
+MP100606,Meeting Bags,Accessories,Bags,268.04,35,174.23,1.2,4054,80,Phillips-Stephens,North Lisahaven,Kentucky,8,Yes,2025-06-16
+MP100607,Music Dresses,Fashion,Dresses,2294.07,23,1766.43,3.1,1561,80,Day-Waters,New Susan,Oklahoma,3,No,2024-12-08
+MP100608,Another Skincare,Beauty & Health,Skincare,1383.99,53,650.48,3.5,1468,49,Cardenas-Smith,East Edward,Alaska,5,Yes,2025-07-09
+MP100609,Center T-Shirts,Fashion,T-Shirts,109.22,37,68.81,1.9,4859,4,Rivera-Dillon,West Cesar,Maryland,5,Yes,2024-09-17
+MP100610,Answer Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1296.27,10,1166.64,4.6,847,54,Jones-Buchanan,New Benjamin,Kansas,10,Yes,2025-04-27
+MP100611,Ask Smartwatches,Electronics,Smartwatches,2750.08,6,2585.08,2.2,3744,40,Robinson Inc,South Stephanie,Texas,10,Yes,2024-07-22
+MP100612,Similar Dresses,Fashion,Dresses,2885.56,21,2279.59,1.1,3920,58,Nelson PLC,Lake Jimmytown,Missouri,6,Yes,2025-01-19
+MP100613,Suddenly Makeup,Beauty & Health,Makeup,108.97,43,62.11,3.4,4117,50,"Simpson, Butler and Boyd",Fryemouth,Tennessee,9,Yes,2025-07-21
+MP100614,Vote Jeans,Fashion,Jeans,2665.1,47,1412.5,2.0,54,44,Martinez-Ramirez,Rossbury,Maine,8,Yes,2025-05-30
+MP100615,Trip Watches,Accessories,Watches,1549.96,42,898.98,3.4,3611,65,Jensen-Nunez,Laneton,New Jersey,5,Yes,2025-05-02
+MP100616,Expect Smartwatches,Electronics,Smartwatches,2868.17,48,1491.45,1.3,2763,58,"Phillips, Garcia and Mitchell",Jenniferberg,Washington,4,No,2025-03-12
+MP100617,His Belts,Accessories,Belts,2693.95,8,2478.43,3.6,3662,30,Daniels-Chavez,Port Lisafurt,Montana,7,Yes,2024-11-14
+MP100618,Treat Bags,Accessories,Bags,2552.37,35,1659.04,4.2,1919,55,Bennett-Sanchez,Mitchellmouth,Louisiana,8,Yes,2024-08-17
+MP100619,Truth Smartwatches,Electronics,Smartwatches,1165.1,55,524.29,3.9,264,30,Mendez PLC,Lake Robin,Ohio,8,No,2025-01-21
+MP100620,Store Mobile Covers,Electronics,Mobile Covers,2840.77,34,1874.91,2.6,3382,35,Carter-Gibson,Shawnville,Iowa,10,Yes,2025-01-15
+MP100621,We T-Shirts,Fashion,T-Shirts,1170.7,5,1112.16,4.6,1436,40,Porter Group,Diazborough,Utah,2,No,2024-09-18
+MP100622,Carry T-Shirts,Fashion,T-Shirts,2984.72,57,1283.43,2.8,2505,16,"Castro, Bell and Moran",South Sarahberg,Maine,8,Yes,2025-04-21
+MP100623,Hair Bags,Accessories,Bags,1498.0,35,973.7,1.6,751,4,"Brooks, Hull and Maldonado",Blackwellland,West Virginia,2,No,2024-09-27
+MP100624,Significant Cookware,Home & Kitchen,Cookware,113.09,54,52.02,2.6,1509,30,"Adkins, Logan and Miranda",Cooperberg,Maryland,10,No,2024-10-26
+MP100625,Or Dresses,Fashion,Dresses,484.91,35,315.19,3.9,862,58,"Skinner, Mcdaniel and Hale",Maldonadoshire,South Dakota,5,No,2025-01-17
+MP100626,Three Chargers,Electronics,Chargers,2595.77,29,1843.0,1.3,2789,24,Powers PLC,Lake Jenniferton,Virginia,5,Yes,2025-03-11
+MP100627,Side T-Shirts,Fashion,T-Shirts,458.06,17,380.19,4.6,333,66,Jones-Webster,Dakotaborough,Oklahoma,5,Yes,2025-02-18
+MP100628,Wife Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2095.42,51,1026.76,4.1,2035,31,Murray PLC,Campbellville,Idaho,10,Yes,2024-09-30
+MP100629,Why Dresses,Fashion,Dresses,863.42,21,682.1,3.7,3289,8,Bryan Ltd,Karenfurt,California,9,Yes,2025-05-25
+MP100630,History Cookware,Home & Kitchen,Cookware,2407.69,6,2263.23,4.7,2600,60,Blevins-Johnson,Stephanietown,Oregon,5,Yes,2025-04-11
+MP100631,Everybody Smartwatches,Electronics,Smartwatches,2227.44,25,1670.58,4.1,983,40,Klein-Gregory,East Matthewstad,New York,4,Yes,2025-02-03
+MP100632,Leg Bedsheets,Home & Kitchen,Bedsheets,2047.13,12,1801.47,2.4,4172,87,"Bailey, Mckenzie and Schmidt",Port Joel,Arkansas,10,Yes,2025-01-03
+MP100633,Next Sarees,Fashion,Sarees,1206.04,24,916.59,3.6,2674,82,"Jones, Davis and Butler",South Brianport,Oregon,7,No,2025-04-29
+MP100634,Field Watches,Accessories,Watches,896.76,34,591.86,3.8,3885,92,James-Owens,New Christopher,Georgia,9,Yes,2025-03-07
+MP100635,Herself Personal Care,Beauty & Health,Personal Care,174.65,53,82.09,4.9,4332,42,"Bradshaw, Gomez and Jones",East Williamfort,Arkansas,6,Yes,2025-02-11
+MP100636,Floor Mobile Covers,Electronics,Mobile Covers,2837.81,51,1390.53,2.8,3410,22,"Lee, Robinson and Morris",Lake Carolville,Virginia,5,Yes,2024-12-12
+MP100637,Thing Belts,Accessories,Belts,1247.58,21,985.59,1.8,4633,68,Edwards Group,New Loriville,Maine,3,Yes,2025-01-26
+MP100638,Church Chargers,Electronics,Chargers,2024.86,59,830.19,1.5,4678,23,Norris and Sons,Bishoptown,Vermont,8,No,2024-08-11
+MP100639,Understand Haircare,Beauty & Health,Haircare,2148.49,7,1998.1,2.7,4952,39,Vargas-Miller,West Edward,California,2,No,2025-06-27
+MP100640,Bad Haircare,Beauty & Health,Haircare,1739.37,44,974.05,2.4,1444,39,Bell-Thompson,Bakerfurt,Montana,9,No,2024-08-13
+MP100641,When Jeans,Fashion,Jeans,2017.68,58,847.43,1.0,1543,36,Sellers Ltd,Larryland,Maine,10,Yes,2025-02-01
+MP100642,Rock Watches,Accessories,Watches,1679.84,44,940.71,3.4,2322,96,Stewart Inc,North Joshuachester,Nebraska,5,No,2024-12-25
+MP100643,Establish Jeans,Fashion,Jeans,136.45,26,100.97,2.2,170,69,"Bell, Smith and Burke",East Nicholas,West Virginia,5,No,2025-05-21
+MP100644,Be Cookware,Home & Kitchen,Cookware,806.75,32,548.59,2.6,923,49,Rosales PLC,Jaclynland,Minnesota,2,No,2025-06-28
+MP100645,Although Decor,Home & Kitchen,Decor,2162.03,56,951.29,1.0,446,22,"Fowler, Peterson and Kirk",North Michaelland,Florida,6,Yes,2025-06-07
+MP100646,Manage Kurtis,Fashion,Kurtis,2962.43,55,1333.09,1.0,996,94,"Gardner, Chapman and Snyder",Lake Stephen,South Carolina,9,No,2024-12-18
+MP100647,Last Makeup,Beauty & Health,Makeup,2480.85,7,2307.19,3.7,2413,13,"Li, Ward and Roberson",Port Billy,New York,7,Yes,2025-01-25
+MP100648,Area Chargers,Electronics,Chargers,682.38,45,375.31,1.5,1517,13,Smith PLC,South Jeffreyview,Virginia,2,Yes,2024-08-19
+MP100649,Question Curtains,Home & Kitchen,Curtains,2684.8,32,1825.66,4.6,4769,97,Macdonald PLC,Port Rodneyfurt,New Mexico,3,Yes,2024-09-02
+MP100650,What Sarees,Fashion,Sarees,1761.42,30,1232.99,1.4,1276,19,"Mccarthy, Castillo and Hendricks",Sarafurt,North Carolina,3,No,2024-10-29
+MP100651,Member Dresses,Fashion,Dresses,1220.81,32,830.15,4.2,2763,21,"Carson, Moran and Patterson",South Monica,Wyoming,8,No,2024-11-28
+MP100652,Instead Dresses,Fashion,Dresses,2306.55,29,1637.65,2.6,3466,84,Floyd Group,South Stevenview,New York,7,Yes,2025-01-19
+MP100653,Ago Skincare,Beauty & Health,Skincare,2151.06,56,946.47,4.8,3386,51,"Mcdonald, Hurst and George",Farmerland,Texas,3,Yes,2024-09-16
+MP100654,Role Earphones,Electronics,Earphones,1244.62,58,522.74,4.4,3250,21,Curtis-Simmons,Lake Jasonhaven,North Carolina,9,No,2025-06-02
+MP100655,Or Skincare,Beauty & Health,Skincare,160.68,35,104.44,4.3,425,52,Page-Sherman,West Eric,Nebraska,10,No,2024-11-04
+MP100656,Before Chargers,Electronics,Chargers,2071.88,58,870.19,2.6,2301,57,Schmidt-Walker,Shawnburgh,New Jersey,10,No,2025-04-16
+MP100657,Ball Makeup,Beauty & Health,Makeup,1201.68,8,1105.55,1.1,4934,94,"Williams, Pugh and Dixon",Cherylville,Wyoming,4,No,2024-10-15
+MP100658,Fund Sarees,Fashion,Sarees,230.53,35,149.84,2.4,3026,50,Conway-Collins,Josephborough,New York,6,No,2024-12-16
+MP100659,Model Personal Care,Beauty & Health,Personal Care,2049.93,46,1106.96,3.9,2745,77,Edwards Ltd,New Matthewbury,Arkansas,2,No,2024-12-11
+MP100660,Whether Chargers,Electronics,Chargers,1531.92,52,735.32,1.2,3721,17,Morales-Johnson,Samanthamouth,Texas,5,Yes,2024-12-18
+MP100661,Network Bags,Accessories,Bags,2974.01,39,1814.15,2.3,48,87,Blake Ltd,Martinezside,Oregon,6,No,2024-11-12
+MP100662,Serve Sarees,Fashion,Sarees,2546.9,9,2317.68,2.9,4442,6,Lewis-Durham,Alexanderstad,Delaware,6,Yes,2025-01-13
+MP100663,Approach Haircare,Beauty & Health,Haircare,2874.48,59,1178.54,3.3,763,8,Campbell-Marquez,Port Sarah,North Dakota,9,No,2025-02-13
+MP100664,His Dresses,Fashion,Dresses,516.42,23,397.64,1.8,3195,95,Richards-Rodriguez,Huangport,Oregon,10,No,2024-10-17
+MP100665,Social Skincare,Beauty & Health,Skincare,1897.08,40,1138.25,3.9,2203,50,"Ellis, Graham and Adkins",South Jonathan,Texas,2,No,2025-01-31
+MP100666,Father Curtains,Home & Kitchen,Curtains,2073.51,14,1783.22,3.5,2145,13,Savage Ltd,Schneidermouth,Nevada,6,Yes,2025-04-18
+MP100667,Especially Cookware,Home & Kitchen,Cookware,388.61,55,174.87,2.6,3359,77,"Hernandez, Johnson and Griffin",Saramouth,Pennsylvania,5,No,2024-09-04
+MP100668,Expect Skincare,Beauty & Health,Skincare,2638.45,59,1081.76,1.5,387,40,"Rocha, Newton and Rogers",East Ernestside,Kentucky,6,Yes,2024-10-22
+MP100669,Themselves Personal Care,Beauty & Health,Personal Care,842.03,33,564.16,2.3,2231,99,Lee-Nichols,Hickmanborough,Washington,9,Yes,2025-05-31
+MP100670,Stop Makeup,Beauty & Health,Makeup,2931.91,11,2609.4,2.4,4297,46,"Kirk, Palmer and Williams",Jerrymouth,Wisconsin,10,Yes,2024-10-14
+MP100671,Rule Sunglasses,Accessories,Sunglasses,1048.99,25,786.74,3.3,694,66,Schmidt Group,Brockhaven,Iowa,8,No,2024-07-28
+MP100672,Chair Bags,Accessories,Bags,2057.94,26,1522.88,4.7,2152,79,Higgins Group,Danielland,New Mexico,10,No,2025-07-05
+MP100673,Line Dresses,Fashion,Dresses,837.68,36,536.12,1.0,251,68,Short Ltd,Elizabethstad,New Mexico,9,No,2024-08-24
+MP100674,Walk Mobile Covers,Electronics,Mobile Covers,2731.47,11,2431.01,4.3,1451,93,"Herman, Hill and Martin",Christophermouth,South Dakota,7,No,2024-12-25
+MP100675,Protect Earphones,Electronics,Earphones,1380.99,55,621.45,3.9,2414,60,Wilkinson-Flores,South Michelle,Alaska,6,No,2025-07-04
+MP100676,About Belts,Accessories,Belts,911.23,10,820.11,1.5,170,87,Miller Group,Jonathanview,North Dakota,5,No,2025-01-29
+MP100677,Carry Sarees,Fashion,Sarees,2628.99,34,1735.13,2.3,2872,28,Richardson-Calhoun,Snydermouth,Indiana,4,Yes,2024-08-10
+MP100678,Book Smartwatches,Electronics,Smartwatches,1284.6,51,629.45,3.9,240,71,Brown-Kane,Amberton,New Hampshire,9,Yes,2025-03-15
+MP100679,Change Smartwatches,Electronics,Smartwatches,216.01,32,146.89,2.6,1552,87,Hansen Group,Bushville,Minnesota,3,No,2025-01-17
+MP100680,List Sarees,Fashion,Sarees,1690.19,37,1064.82,4.7,970,81,Sanchez-Smith,South Hannah,North Dakota,9,No,2025-02-13
+MP100681,Sure Personal Care,Beauty & Health,Personal Care,1528.4,53,718.35,2.0,4510,51,"Lee, Hendricks and Morris",South Tyler,New Hampshire,5,No,2024-08-08
+MP100682,Remain Bedsheets,Home & Kitchen,Bedsheets,1965.09,11,1748.93,4.6,4964,19,Price-Fisher,Sharpmouth,Nevada,2,No,2025-06-27
+MP100683,Certainly Kurtis,Fashion,Kurtis,1466.69,27,1070.68,3.7,2558,16,Bray PLC,West Gregoryland,Rhode Island,7,Yes,2025-03-10
+MP100684,Thus Makeup,Beauty & Health,Makeup,692.92,31,478.11,4.1,2580,29,"Nguyen, Vargas and Ramirez",North Benjaminmouth,Ohio,6,Yes,2024-12-29
+MP100685,Between Sunglasses,Accessories,Sunglasses,2423.54,6,2278.13,4.6,2659,56,Howe PLC,New Amber,New Hampshire,9,No,2024-09-18
+MP100686,Address T-Shirts,Fashion,T-Shirts,2068.74,29,1468.81,3.7,1420,94,Brown-Mcdaniel,Bridgeshaven,New Jersey,4,No,2025-05-29
+MP100687,Into Mobile Covers,Electronics,Mobile Covers,1288.02,27,940.25,1.5,940,61,Ramirez-Cunningham,South Kevin,North Carolina,6,Yes,2025-05-25
+MP100688,Grow Decor,Home & Kitchen,Decor,241.47,58,101.42,2.2,3267,46,Davis-Nichols,North Scottton,Missouri,3,Yes,2024-08-06
+MP100689,Power Cookware,Home & Kitchen,Cookware,185.56,33,124.33,2.1,937,65,Burns-Williams,West Katie,Tennessee,5,Yes,2024-08-10
+MP100690,Every Jeans,Fashion,Jeans,1078.72,7,1003.21,3.4,4700,7,Hernandez-Pena,Port Nicolemouth,Indiana,10,Yes,2025-05-21
+MP100691,Size Watches,Accessories,Watches,2860.82,34,1888.14,2.9,953,86,Black Ltd,North Elizabethland,Florida,8,No,2025-04-20
+MP100692,Member Earphones,Electronics,Earphones,2448.71,10,2203.84,1.0,3691,42,Sanchez Inc,East Rachelview,Indiana,9,No,2024-07-29
+MP100693,Forget Cookware,Home & Kitchen,Cookware,1663.76,41,981.62,2.0,4943,35,Houston-Meza,Jeremymouth,Georgia,5,Yes,2024-11-24
+MP100694,Wait Makeup,Beauty & Health,Makeup,2950.3,32,2006.2,1.8,1386,55,Green LLC,Nguyenburgh,Oregon,8,No,2024-11-01
+MP100695,Remember Belts,Accessories,Belts,2789.13,20,2231.3,2.2,1526,71,Smith-Nunez,Pachecotown,Louisiana,10,No,2025-03-15
+MP100696,Admit Dresses,Fashion,Dresses,2544.33,24,1933.69,3.4,973,67,Taylor and Sons,Morrisbury,Wyoming,2,No,2025-04-04
+MP100697,Friend Jeans,Fashion,Jeans,2393.73,22,1867.11,1.1,3653,4,Costa-Wright,Jamiestad,Vermont,2,No,2025-07-07
+MP100698,As Jewelry,Accessories,Jewelry,2345.87,56,1032.18,2.4,4167,34,Lopez-Marshall,North Christopher,Idaho,7,Yes,2024-10-17
+MP100699,Team Kurtis,Fashion,Kurtis,2521.15,37,1588.32,2.7,2265,41,Carrillo Group,Frankbury,Vermont,8,Yes,2025-03-03
+MP100700,Fund Belts,Accessories,Belts,2629.95,9,2393.25,2.1,198,18,Singh Inc,Lake Samuelborough,Massachusetts,10,No,2025-05-10
+MP100701,Clear T-Shirts,Fashion,T-Shirts,617.61,37,389.09,1.1,859,48,Ali PLC,West Benjamintown,Illinois,5,Yes,2024-09-26
+MP100702,Mean Jewelry,Accessories,Jewelry,857.17,30,600.02,1.2,4896,88,Hall-Ortiz,South Tiffanymouth,Washington,8,No,2024-12-13
+MP100703,Charge Belts,Accessories,Belts,109.95,38,68.17,4.6,4063,65,Wright Inc,East Jeremy,Massachusetts,4,Yes,2024-08-29
+MP100704,Have Makeup,Beauty & Health,Makeup,1166.52,56,513.27,2.0,726,20,"Orozco, Middleton and Little",New Natalieland,Montana,8,Yes,2025-01-08
+MP100705,Mention Earphones,Electronics,Earphones,1440.24,28,1036.97,2.7,3551,11,Nelson-Robinson,Christopherborough,Arizona,3,No,2025-01-06
+MP100706,News Kurtis,Fashion,Kurtis,655.41,21,517.77,3.8,1530,90,"Morgan, Anderson and Johnson",Port Tiffanyfurt,Pennsylvania,8,No,2025-03-27
+MP100707,Democrat Dresses,Fashion,Dresses,1566.21,26,1159.0,4.3,3154,82,"Richmond, King and Grimes",Port Scott,Indiana,7,No,2025-02-03
+MP100708,Sound Chargers,Electronics,Chargers,2731.06,44,1529.39,2.4,4325,17,Sloan-Jones,North Jennifer,Louisiana,2,Yes,2025-01-27
+MP100709,Ground Sarees,Fashion,Sarees,438.24,10,394.42,4.5,3922,31,Ellis and Sons,Millerbury,Idaho,9,Yes,2025-03-29
+MP100710,Cold Sunglasses,Accessories,Sunglasses,1630.42,10,1467.38,3.7,2848,53,Lynch PLC,Stevenhaven,Georgia,6,Yes,2024-12-10
+MP100711,Popular Jeans,Fashion,Jeans,1176.33,15,999.88,4.4,2631,0,Taylor PLC,North Joanmouth,Rhode Island,6,Yes,2025-01-03
+MP100712,Moment Skincare,Beauty & Health,Skincare,434.05,16,364.6,2.4,1823,63,Dawson Group,East Tammy,Montana,9,Yes,2025-03-04
+MP100713,Yeah Sarees,Fashion,Sarees,1341.14,43,764.45,1.1,2460,94,Banks PLC,North Adriana,Alaska,10,No,2025-02-13
+MP100714,Money Mobile Covers,Electronics,Mobile Covers,756.74,29,537.29,2.0,266,47,White-Reed,Aaronville,California,2,Yes,2025-03-06
+MP100715,Low Cookware,Home & Kitchen,Cookware,2231.3,38,1383.41,4.5,467,39,"Pope, Diaz and Evans",Espinozatown,Oregon,7,No,2025-01-03
+MP100716,Account Earphones,Electronics,Earphones,726.85,18,596.02,3.7,4761,47,Williams and Sons,South Samantha,Alabama,7,No,2025-05-09
+MP100717,Some Skincare,Beauty & Health,Skincare,160.89,7,149.63,4.2,3872,28,Martin Ltd,Hawkinsstad,New Mexico,2,No,2024-09-22
+MP100718,Gas Decor,Home & Kitchen,Decor,2734.86,29,1941.75,3.1,1279,54,Nelson-Torres,Parsonshaven,Maine,2,No,2024-11-02
+MP100719,Seven Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1873.69,54,861.9,1.4,2210,44,Ayala LLC,Latoyaburgh,Georgia,4,No,2024-12-30
+MP100720,Project Jeans,Fashion,Jeans,2418.97,43,1378.81,1.9,3960,65,Ruiz-Sullivan,Port Michaelland,Connecticut,5,No,2025-07-08
+MP100721,Particularly T-Shirts,Fashion,T-Shirts,2607.54,19,2112.11,3.8,2218,8,Butler Ltd,Morganshire,Alabama,4,Yes,2024-12-17
+MP100722,Later Mobile Covers,Electronics,Mobile Covers,976.33,8,898.22,4.0,451,39,Allison-Morse,South Candace,Kentucky,9,Yes,2024-09-09
+MP100723,Sing Haircare,Beauty & Health,Haircare,1160.42,34,765.88,1.4,3749,24,Fox-Lopez,West Mindyshire,South Dakota,4,No,2025-06-30
+MP100724,Back Bedsheets,Home & Kitchen,Bedsheets,960.95,34,634.23,4.5,1267,10,"Edwards, Santos and Hill",Harringtonburgh,Tennessee,6,Yes,2024-09-12
+MP100725,Authority Cleaning Supplies,Home & Kitchen,Cleaning Supplies,766.1,23,589.9,4.2,3744,88,"Kline, Hawkins and Anderson",Lopezville,Oregon,10,No,2024-12-07
+MP100726,Run Chargers,Electronics,Chargers,1902.28,53,894.07,3.0,4656,98,Gordon LLC,North Randallstad,Minnesota,3,No,2025-04-12
+MP100727,Mrs Watches,Accessories,Watches,2114.31,47,1120.58,3.3,477,14,Wagner PLC,Christopherburgh,Utah,2,No,2024-09-15
+MP100728,Office Sunglasses,Accessories,Sunglasses,938.02,54,431.49,1.3,1811,13,Holt-Robinson,North Joyview,New Mexico,5,Yes,2025-06-07
+MP100729,Course Sunglasses,Accessories,Sunglasses,577.64,41,340.81,3.7,2411,85,"Stewart, George and Garcia",Lake Nathanport,Alabama,7,Yes,2024-10-01
+MP100730,Most Smartwatches,Electronics,Smartwatches,2704.22,8,2487.88,4.7,2465,91,Shepherd and Sons,South Marcusfurt,Utah,10,Yes,2025-01-27
+MP100731,Commercial Belts,Accessories,Belts,2291.42,22,1787.31,1.8,3972,31,Franco-Martinez,Brownview,Texas,10,Yes,2024-09-01
+MP100732,Modern Cleaning Supplies,Home & Kitchen,Cleaning Supplies,781.76,9,711.4,4.6,515,30,Smith Inc,East Craigberg,South Carolina,3,Yes,2025-02-08
+MP100733,Hotel Belts,Accessories,Belts,1849.92,51,906.46,1.9,4203,81,"Rodriguez, Martin and Kent",South Michael,New Jersey,2,No,2024-09-11
+MP100734,Generation Bedsheets,Home & Kitchen,Bedsheets,2132.5,13,1855.28,1.8,2848,28,"Dunn, Miller and Gross",North Victoria,New York,5,No,2024-11-02
+MP100735,Store Sunglasses,Accessories,Sunglasses,695.15,50,347.57,4.6,4119,8,Rowe Ltd,Brewermouth,Kansas,9,Yes,2024-12-28
+MP100736,Provide Makeup,Beauty & Health,Makeup,629.41,19,509.82,2.4,4488,86,"Estes, Walker and Turner",Roberthaven,Washington,8,Yes,2024-08-04
+MP100737,Wrong Smartwatches,Electronics,Smartwatches,1708.43,52,820.05,4.2,4991,55,Espinoza Ltd,Port William,Hawaii,2,Yes,2025-03-23
+MP100738,Easy Earphones,Electronics,Earphones,1416.11,33,948.79,1.3,4392,62,"Carter, Randolph and Kennedy",Nancystad,North Dakota,5,Yes,2025-03-29
+MP100739,Themselves Cookware,Home & Kitchen,Cookware,1266.21,30,886.35,2.3,2685,55,"Cross, Hicks and Torres",Lindashire,New Jersey,2,No,2024-09-12
+MP100740,Customer Watches,Accessories,Watches,1863.26,12,1639.67,1.0,1758,43,"Holt, Goodwin and Wright",Lake Andreahaven,Connecticut,8,No,2025-04-16
+MP100741,Health Smartwatches,Electronics,Smartwatches,1181.51,60,472.6,4.1,2599,49,Wong-Holt,Juliechester,North Dakota,9,Yes,2025-03-31
+MP100742,Ball Haircare,Beauty & Health,Haircare,1722.66,42,999.14,3.3,3561,5,James Group,Tracyland,Alabama,10,No,2024-12-18
+MP100743,Run Dresses,Fashion,Dresses,359.15,28,258.59,3.8,4281,12,Rodriguez-Warren,Coxburgh,Arkansas,3,No,2025-05-14
+MP100744,Federal T-Shirts,Fashion,T-Shirts,2676.51,22,2087.68,1.7,4776,47,Johnson-Walker,Bradleystad,Connecticut,3,No,2025-04-21
+MP100745,Western Personal Care,Beauty & Health,Personal Care,1244.24,38,771.43,3.3,3162,77,Figueroa Ltd,Lake Lanceburgh,New Jersey,6,No,2025-04-25
+MP100746,City Mobile Covers,Electronics,Mobile Covers,1557.33,7,1448.32,2.5,3558,10,Coleman-Cox,Port Brett,Illinois,7,Yes,2024-10-08
+MP100747,Staff Sunglasses,Accessories,Sunglasses,1196.54,31,825.61,4.6,4158,32,Perry Group,Lauraville,Iowa,3,No,2025-01-16
+MP100748,Relate Smartwatches,Electronics,Smartwatches,1457.02,37,917.92,4.7,1830,88,Hubbard-Acosta,Taylorshire,South Dakota,6,No,2025-03-28
+MP100749,Provide Chargers,Electronics,Chargers,160.99,32,109.47,1.4,4762,90,"Wilson, Parsons and Oconnor",Port Veronicaton,Massachusetts,8,No,2025-05-12
+MP100750,Concern Jeans,Fashion,Jeans,1905.65,31,1314.9,2.0,1880,79,Davis-Moore,Crossside,Alabama,8,Yes,2024-07-23
+MP100751,Agree T-Shirts,Fashion,T-Shirts,678.69,60,271.48,3.0,2567,91,Brown PLC,New Jamieport,New Jersey,5,No,2025-05-10
+MP100752,Central Kurtis,Fashion,Kurtis,1660.8,44,930.05,1.3,1088,86,"White, Morris and Sawyer",Amberfurt,Wyoming,2,Yes,2025-06-10
+MP100753,Whose Makeup,Beauty & Health,Makeup,2350.47,58,987.2,4.5,2991,23,"Richardson, Garner and Greer",Lake Thomas,Kentucky,2,Yes,2025-03-03
+MP100754,Treat Makeup,Beauty & Health,Makeup,397.27,27,290.01,4.2,4393,85,Bates-Sanders,Dianahaven,Wyoming,2,Yes,2024-11-24
+MP100755,Loss Smartwatches,Electronics,Smartwatches,407.98,39,248.87,3.9,180,95,Thomas Ltd,Alvareztown,South Dakota,4,No,2024-09-22
+MP100756,Range Chargers,Electronics,Chargers,167.27,20,133.82,2.5,3120,3,Reese PLC,North Emily,Colorado,9,No,2025-04-23
+MP100757,Official Dresses,Fashion,Dresses,293.41,44,164.31,2.2,1974,96,Powell-Oliver,Amberborough,New York,9,No,2025-05-20
+MP100758,Man Sarees,Fashion,Sarees,632.58,20,506.06,1.1,2906,40,Massey-Williamson,Joelville,Missouri,3,No,2024-09-18
+MP100759,Reach Jeans,Fashion,Jeans,1327.07,19,1074.93,3.3,2492,22,Haas LLC,Colemanshire,Massachusetts,2,Yes,2025-01-18
+MP100760,Same Watches,Accessories,Watches,1650.39,42,957.23,1.2,4965,52,Mcdonald-Brown,East Dorisbury,North Carolina,7,Yes,2025-06-12
+MP100761,Page Earphones,Electronics,Earphones,2124.65,18,1742.21,1.1,660,23,Lewis Ltd,West Johnville,Illinois,5,Yes,2024-10-28
+MP100762,Idea Skincare,Beauty & Health,Skincare,2985.91,57,1283.94,4.9,3407,51,"Bailey, Mcneil and Mckinney",Susanborough,North Dakota,5,Yes,2024-11-28
+MP100763,Soldier Jewelry,Accessories,Jewelry,1522.12,32,1035.04,1.1,4953,83,Rodriguez LLC,Ericfurt,Connecticut,10,No,2024-12-02
+MP100764,Whom Earphones,Electronics,Earphones,1605.68,42,931.29,2.6,1690,98,"Weaver, Chen and Booker",New Michaelberg,Georgia,7,No,2024-11-01
+MP100765,Company Curtains,Home & Kitchen,Curtains,802.11,42,465.22,2.8,1598,48,Stewart-Watson,Justinbury,Kansas,5,No,2024-08-01
+MP100766,Activity Watches,Accessories,Watches,2412.65,8,2219.64,4.4,784,17,"Neal, White and Kelly",Port Mirandahaven,New Hampshire,7,Yes,2025-05-16
+MP100767,Pattern Personal Care,Beauty & Health,Personal Care,2792.64,50,1396.32,2.9,2775,16,Obrien-Swanson,Christopherborough,Illinois,9,Yes,2024-12-13
+MP100768,Radio Haircare,Beauty & Health,Haircare,2488.02,52,1194.25,2.3,3412,25,Collins PLC,Richardsonberg,Minnesota,8,Yes,2025-06-08
+MP100769,Cover Sunglasses,Accessories,Sunglasses,744.79,5,707.55,4.6,3559,31,Williams-Olsen,Boltonshire,New York,2,No,2025-01-03
+MP100770,Economic Cookware,Home & Kitchen,Cookware,948.61,7,882.21,4.6,4252,76,Rose-Clark,Lake David,Iowa,9,Yes,2024-10-16
+MP100771,Investment Sarees,Fashion,Sarees,1666.12,14,1432.86,3.6,633,77,"Yates, Smith and Johnson",Hernandezfort,Michigan,4,Yes,2025-07-20
+MP100772,Across Watches,Accessories,Watches,1860.81,40,1116.49,1.3,2321,69,Anderson and Sons,Perezmouth,Connecticut,10,No,2024-10-22
+MP100773,Morning Chargers,Electronics,Chargers,1051.89,35,683.73,1.4,1188,2,Farrell PLC,Scottburgh,Indiana,2,No,2025-06-30
+MP100774,Main Bags,Accessories,Bags,663.77,12,584.12,4.5,732,11,"Campbell, Ayala and Gillespie",Birdburgh,Minnesota,8,Yes,2024-12-09
+MP100775,Director Haircare,Beauty & Health,Haircare,1755.52,41,1035.76,4.5,4758,52,Avila Group,North Collin,Missouri,5,No,2025-07-15
+MP100776,Experience Watches,Accessories,Watches,1283.09,60,513.24,2.6,3924,88,Price-Welch,East Christopherburgh,Colorado,2,No,2025-04-11
+MP100777,Serve Sarees,Fashion,Sarees,2122.96,35,1379.92,1.7,2898,59,Walker-Allen,South Eric,Iowa,3,No,2025-05-20
+MP100778,Sing Smartwatches,Electronics,Smartwatches,1506.69,23,1160.15,2.7,3676,63,Massey-Scott,Lake Sandraport,Wyoming,3,No,2025-05-14
+MP100779,Suddenly Chargers,Electronics,Chargers,2622.82,49,1337.64,2.0,1829,41,"Savage, Castro and Dickerson",Stevenfurt,New Mexico,3,No,2025-04-25
+MP100780,Series Chargers,Electronics,Chargers,103.53,49,52.8,3.4,1103,21,Duncan-Gilbert,West Shannonville,Alaska,5,Yes,2025-04-09
+MP100781,Whose Earphones,Electronics,Earphones,1474.31,35,958.3,3.4,4867,55,Wolf-Tucker,Jonland,Montana,10,Yes,2025-05-19
+MP100782,Life Bedsheets,Home & Kitchen,Bedsheets,640.38,38,397.04,2.4,2752,67,Hoffman-Kelley,Edwardside,New Mexico,6,No,2025-02-12
+MP100783,Develop Bedsheets,Home & Kitchen,Bedsheets,1264.34,55,568.95,3.6,134,60,Smith-Walsh,Parkermouth,Montana,8,Yes,2024-10-30
+MP100784,Go Jewelry,Accessories,Jewelry,2377.91,36,1521.86,1.6,2981,20,"Gutierrez, Peck and Pierce",New Charles,Kentucky,10,No,2025-07-13
+MP100785,Try Personal Care,Beauty & Health,Personal Care,599.1,17,497.25,1.4,1222,2,"Logan, Richardson and Carter",Lake Erin,Oklahoma,6,No,2025-06-21
+MP100786,Think Bedsheets,Home & Kitchen,Bedsheets,708.48,32,481.77,3.8,3791,5,White-Adams,Pamelaland,Hawaii,4,Yes,2025-01-24
+MP100787,Fire Mobile Covers,Electronics,Mobile Covers,2662.55,50,1331.28,4.8,522,73,"Wallace, Berger and Estes",West Jacquelineton,Hawaii,3,Yes,2025-07-01
+MP100788,Heart Chargers,Electronics,Chargers,743.52,38,460.98,3.0,3122,94,Payne-Hart,Smithport,Wyoming,2,No,2025-03-03
+MP100789,Role Sunglasses,Accessories,Sunglasses,2377.1,56,1045.92,2.7,2442,14,"Vaughan, Smith and Owen",Claytonfort,Arkansas,3,No,2025-06-24
+MP100790,Position Skincare,Beauty & Health,Skincare,953.54,44,533.98,3.0,4056,11,Taylor LLC,Valerieview,Texas,4,Yes,2025-02-05
+MP100791,Rock Jewelry,Accessories,Jewelry,948.11,60,379.24,2.5,4412,33,Evans-Lyons,Samuelview,Massachusetts,6,No,2025-02-26
+MP100792,Meeting Personal Care,Beauty & Health,Personal Care,1227.41,49,625.98,4.5,1731,50,Werner-Obrien,New Pamelamouth,North Carolina,3,Yes,2025-03-08
+MP100793,Down Dresses,Fashion,Dresses,2381.51,39,1452.72,3.3,2951,43,"Bradley, Arias and Smith",West Blakeburgh,Ohio,6,No,2025-05-11
+MP100794,Protect Sunglasses,Accessories,Sunglasses,2100.19,15,1785.16,2.0,946,60,"Hill, Poole and Martin",Geraldbury,South Dakota,5,No,2025-03-26
+MP100795,Somebody Makeup,Beauty & Health,Makeup,770.4,24,585.5,1.6,113,21,Berry-Ford,Andersonborough,Virginia,7,No,2025-04-27
+MP100796,Station Sunglasses,Accessories,Sunglasses,232.97,22,181.72,3.4,209,53,Torres Inc,New Susan,South Carolina,9,Yes,2024-09-25
+MP100797,Cost Smartwatches,Electronics,Smartwatches,1345.4,31,928.33,2.3,5,51,Fox Group,East Virginiaville,Mississippi,2,No,2024-09-30
+MP100798,Message Skincare,Beauty & Health,Skincare,598.91,13,521.05,3.3,4620,95,Johnson and Sons,South Melissaborough,West Virginia,2,Yes,2024-09-28
+MP100799,Music Makeup,Beauty & Health,Makeup,705.24,33,472.51,2.2,3152,86,Robertson Inc,Walkermouth,Delaware,2,Yes,2025-06-15
+MP100800,Change Earphones,Electronics,Earphones,2518.54,32,1712.61,2.0,412,61,Dixon-Smith,Alfredfort,Wisconsin,10,No,2024-10-01
+MP100801,Marriage Belts,Accessories,Belts,2242.66,29,1592.29,1.0,3706,5,"Estrada, Miller and Booth",Kennethmouth,Massachusetts,8,Yes,2025-06-28
+MP100802,Person Belts,Accessories,Belts,115.24,8,106.02,4.6,3786,59,"Fisher, Shaw and Myers",Ericaburgh,South Dakota,4,No,2025-03-10
+MP100803,Person Skincare,Beauty & Health,Skincare,2402.95,29,1706.09,1.8,679,82,Myers PLC,Lake Williamstad,Rhode Island,9,No,2025-07-14
+MP100804,Inside Jewelry,Accessories,Jewelry,2906.46,29,2063.59,2.4,347,61,Rivera-Combs,New Justin,Massachusetts,6,Yes,2025-07-07
+MP100805,Effort Belts,Accessories,Belts,136.88,8,125.93,5.0,2714,77,Frederick Inc,Williamville,Wyoming,8,No,2025-05-14
+MP100806,Campaign Sarees,Fashion,Sarees,1456.53,13,1267.18,4.3,183,39,"Smith, Henry and Bernard",Port Adrian,Rhode Island,2,No,2025-06-05
+MP100807,Serve T-Shirts,Fashion,T-Shirts,399.78,35,259.86,1.5,4834,57,Pruitt Group,West Olivia,South Dakota,2,No,2025-03-16
+MP100808,Future Skincare,Beauty & Health,Skincare,157.62,43,89.84,2.6,4104,63,Howell-Lewis,New Troymouth,Florida,5,No,2025-02-21
+MP100809,Decade T-Shirts,Fashion,T-Shirts,1253.97,54,576.83,1.7,1324,24,"Collins, Romero and Romero",Meganfort,Ohio,3,No,2025-02-21
+MP100810,Fast Bags,Accessories,Bags,1754.95,44,982.77,2.4,359,0,Marquez Inc,Lake Kevin,North Dakota,9,No,2025-01-20
+MP100811,Identify Sunglasses,Accessories,Sunglasses,740.51,51,362.85,2.0,797,17,"Juarez, Ellis and Williams",Ryanbury,Kentucky,5,Yes,2025-02-08
+MP100812,Much Smartwatches,Electronics,Smartwatches,2030.64,7,1888.5,3.8,2192,49,Norris-Benitez,East Charlesbury,Nebraska,10,No,2025-03-01
+MP100813,Reach Sarees,Fashion,Sarees,2125.62,22,1657.98,1.5,538,54,"Martinez, Sims and Williams",Lake Maria,Massachusetts,6,No,2025-01-19
+MP100814,Relationship Makeup,Beauty & Health,Makeup,2366.41,59,970.23,1.2,2679,11,Perry PLC,Lake Laurafurt,Idaho,7,Yes,2025-02-25
+MP100815,Impact Decor,Home & Kitchen,Decor,213.5,7,198.55,2.4,3150,2,"Reynolds, Martinez and Davis",Harrellburgh,Kentucky,6,Yes,2025-01-30
+MP100816,Training Kurtis,Fashion,Kurtis,461.06,28,331.96,4.5,3968,35,Deleon LLC,South Candacemouth,Vermont,2,Yes,2024-07-23
+MP100817,Wrong Kurtis,Fashion,Kurtis,875.64,13,761.81,3.7,3406,52,Jennings-Anderson,Lake Barbara,Connecticut,7,No,2024-08-14
+MP100818,Quite Smartwatches,Electronics,Smartwatches,2983.11,47,1581.05,4.7,3572,90,Nelson-Lang,Nicholasside,Utah,2,No,2024-08-11
+MP100819,Risk Mobile Covers,Electronics,Mobile Covers,2739.09,8,2519.96,2.8,633,5,"Barnes, Walter and Stevens",North Dannyhaven,Hawaii,9,Yes,2024-08-13
+MP100820,Game Watches,Accessories,Watches,761.9,6,716.19,1.2,2012,21,"Buchanan, Green and Moore",Lindseyside,New Jersey,7,Yes,2025-03-25
+MP100821,Generation Skincare,Beauty & Health,Skincare,2633.94,51,1290.63,1.4,2155,97,Cherry-Young,Markchester,Washington,3,Yes,2024-12-11
+MP100822,High Watches,Accessories,Watches,1622.32,24,1232.96,3.3,1823,23,Whitney LLC,East Charles,Maryland,10,No,2024-07-28
+MP100823,Big Personal Care,Beauty & Health,Personal Care,341.01,43,194.38,1.9,2341,63,Vaughn-Ali,New Evelyn,Mississippi,10,Yes,2024-10-23
+MP100824,Save Chargers,Electronics,Chargers,1995.72,7,1856.02,1.6,2990,84,"Cook, Barber and Nelson",Jennifermouth,Wyoming,7,No,2024-09-18
+MP100825,Move Haircare,Beauty & Health,Haircare,2717.55,7,2527.32,3.2,3971,16,"Anderson, Russell and Wong",Port Christine,Wisconsin,10,No,2024-08-10
+MP100826,Once Bags,Accessories,Bags,2957.91,50,1478.95,1.8,3471,29,Martinez-Novak,Bryanview,Indiana,5,No,2025-05-12
+MP100827,Her Watches,Accessories,Watches,247.91,9,225.6,3.8,3007,32,"Cuevas, Thomas and Rowland",Matthewburgh,Oregon,9,No,2024-12-25
+MP100828,Available T-Shirts,Fashion,T-Shirts,359.84,19,291.47,1.2,1977,10,King Inc,Lake Sandramouth,Missouri,2,Yes,2024-10-29
+MP100829,Song Haircare,Beauty & Health,Haircare,1855.6,12,1632.93,4.1,4641,44,Stein Group,Port Rossside,Nebraska,8,No,2024-09-20
+MP100830,Guess Belts,Accessories,Belts,2382.71,54,1096.05,5.0,3671,81,"Romero, Booth and Green",Normanshire,Texas,2,Yes,2024-12-31
+MP100831,Give Belts,Accessories,Belts,1460.27,6,1372.65,2.1,901,36,Mendoza LLC,New Christopherport,Rhode Island,3,Yes,2025-03-16
+MP100832,Wonder Sunglasses,Accessories,Sunglasses,1387.67,49,707.71,2.2,1111,24,Roberts-Young,Claudiafort,Illinois,6,No,2024-08-10
+MP100833,Week Belts,Accessories,Belts,660.34,31,455.63,1.6,2795,65,"Cruz, Ramirez and Holmes",East Ricardofort,Connecticut,2,Yes,2024-11-23
+MP100834,Pattern Mobile Covers,Electronics,Mobile Covers,2908.09,10,2617.28,1.1,1753,93,Dyer-Barton,Scottview,Iowa,3,Yes,2024-10-12
+MP100835,Item Earphones,Electronics,Earphones,2639.04,40,1583.42,2.0,4941,47,Wagner Ltd,Woodsmouth,Montana,3,No,2024-09-08
+MP100836,Chair Chargers,Electronics,Chargers,2466.32,8,2269.01,1.6,809,43,"Paul, Hill and Frey",Caseyland,Oklahoma,9,Yes,2024-12-09
+MP100837,Finish Personal Care,Beauty & Health,Personal Care,1372.84,25,1029.63,2.6,1205,26,"Abbott, Kennedy and Goodwin",Port Richard,Oklahoma,9,No,2025-02-06
+MP100838,Both Sarees,Fashion,Sarees,186.93,58,78.51,2.3,880,84,"Choi, Cain and Butler",Harveyfort,Idaho,3,Yes,2025-02-11
+MP100839,True Personal Care,Beauty & Health,Personal Care,1799.23,60,719.69,2.9,2718,10,Duarte and Sons,Carmenbury,Wisconsin,6,No,2024-11-21
+MP100840,Where Mobile Covers,Electronics,Mobile Covers,536.92,45,295.31,3.4,4004,67,Taylor-Griffith,New Karastad,Vermont,5,No,2025-06-27
+MP100841,Reflect Decor,Home & Kitchen,Decor,2216.14,24,1684.27,1.5,1653,93,"Brown, Murray and Smith",Ashleychester,Connecticut,9,Yes,2024-08-06
+MP100842,Vote Watches,Accessories,Watches,368.38,34,243.13,2.4,1413,80,"Terry, Davidson and Baker",Lake Deborahfort,Hawaii,6,No,2025-06-14
+MP100843,Administration Personal Care,Beauty & Health,Personal Care,2939.9,53,1381.75,2.9,621,80,Hernandez Inc,Ramirezville,Delaware,3,Yes,2024-12-17
+MP100844,Team Bags,Accessories,Bags,971.87,41,573.4,4.7,1377,50,"Jones, Dickson and Fuentes",New Kimberly,Louisiana,9,No,2025-05-25
+MP100845,Build Chargers,Electronics,Chargers,713.84,21,563.93,4.6,1433,20,"Taylor, Nichols and Farley",Wheelerfurt,Idaho,2,Yes,2025-04-25
+MP100846,Ago Cleaning Supplies,Home & Kitchen,Cleaning Supplies,990.24,51,485.22,2.6,3097,7,Robinson-Pope,Glassville,New Mexico,10,Yes,2024-10-21
+MP100847,Authority Haircare,Beauty & Health,Haircare,1866.71,5,1773.37,2.8,4832,36,Wood Ltd,North Ryanmouth,California,10,No,2025-06-21
+MP100848,Become Dresses,Fashion,Dresses,1433.56,19,1161.18,4.2,1851,69,Brown-Young,Murraymouth,California,6,Yes,2025-05-23
+MP100849,Yard Smartwatches,Electronics,Smartwatches,2027.08,57,871.64,5.0,4335,52,Huff-Carlson,Theodoretown,New Jersey,7,No,2024-11-10
+MP100850,Child Curtains,Home & Kitchen,Curtains,423.6,47,224.51,2.1,2025,16,Moore PLC,Muellerfurt,Kansas,8,Yes,2025-03-02
+MP100851,Identify Haircare,Beauty & Health,Haircare,1790.05,20,1432.04,5.0,4383,49,Chavez Ltd,Jeremyport,Kansas,10,Yes,2024-12-23
+MP100852,Type Earphones,Electronics,Earphones,778.25,51,381.34,3.9,2849,94,Williams Ltd,West Christianberg,Hawaii,6,No,2025-06-07
+MP100853,Concern Belts,Accessories,Belts,2609.36,54,1200.31,1.3,68,10,"Taylor, Campbell and Hampton",New Nicole,Idaho,4,No,2025-01-17
+MP100854,General Curtains,Home & Kitchen,Curtains,1726.93,49,880.73,3.1,9,47,Oliver Ltd,Jenkinschester,Mississippi,10,Yes,2025-07-20
+MP100855,World Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1233.3,37,776.98,2.3,3758,58,Adkins-Carter,Brianville,New Mexico,4,No,2024-12-27
+MP100856,Suggest Chargers,Electronics,Chargers,625.75,21,494.34,1.9,3641,91,Watts Group,South Amy,Connecticut,3,No,2024-08-07
+MP100857,Indicate Chargers,Electronics,Chargers,2190.62,56,963.87,3.0,1656,49,Guerrero LLC,Williamsbury,Nebraska,5,Yes,2024-08-18
+MP100858,Government Jewelry,Accessories,Jewelry,278.72,16,234.12,3.5,3968,75,Gordon-Rocha,Owensport,Idaho,8,No,2025-01-30
+MP100859,Court Watches,Accessories,Watches,796.83,17,661.37,4.6,791,66,"Smith, Smith and Romero",South Anthony,Ohio,2,No,2024-12-13
+MP100860,Break Sarees,Fashion,Sarees,106.25,19,86.06,1.2,3313,98,Ross-Juarez,Dodsonborough,Mississippi,9,Yes,2024-09-29
+MP100861,American Mobile Covers,Electronics,Mobile Covers,2554.48,13,2222.4,2.7,1977,55,Martin-Tapia,Port Carolynton,Ohio,3,No,2025-02-14
+MP100862,World Sarees,Fashion,Sarees,858.49,49,437.83,1.3,871,22,"Scott, Powell and Alexander",Lake Jennifer,Maine,7,Yes,2024-08-19
+MP100863,Evidence Makeup,Beauty & Health,Makeup,2803.8,49,1429.94,1.5,4186,64,Porter-Reese,Villarrealhaven,Louisiana,9,No,2024-10-30
+MP100864,Serious Earphones,Electronics,Earphones,813.19,57,349.67,4.1,3838,22,Martin Ltd,Perrybury,Georgia,9,Yes,2025-07-17
+MP100865,Ball Jewelry,Accessories,Jewelry,854.87,45,470.18,1.8,1963,22,"Santos, Roberts and Webb",Port Daniel,Virginia,3,No,2024-12-04
+MP100866,Still Kurtis,Fashion,Kurtis,2947.3,10,2652.57,2.7,1443,44,"Wilson, Sullivan and Frederick",North Steven,Nevada,6,Yes,2025-01-15
+MP100867,Message Mobile Covers,Electronics,Mobile Covers,2017.3,30,1412.11,2.3,27,73,Hernandez-Holmes,Kruegermouth,South Dakota,4,Yes,2025-06-17
+MP100868,Prepare Sarees,Fashion,Sarees,2515.01,52,1207.2,1.1,4081,86,Fitzgerald-Phelps,Elizabethtown,Michigan,7,No,2024-09-14
+MP100869,Who Sarees,Fashion,Sarees,146.52,38,90.84,2.7,4229,41,Garcia Inc,West Christophermouth,Hawaii,9,Yes,2025-05-19
+MP100870,Special Sarees,Fashion,Sarees,2860.82,19,2317.26,1.9,1900,6,"Merritt, Sullivan and Ortega",East Melinda,Wisconsin,7,Yes,2024-07-25
+MP100871,My Haircare,Beauty & Health,Haircare,887.72,56,390.6,3.4,4777,68,Smith LLC,Port Kennethhaven,North Dakota,4,No,2025-07-07
+MP100872,Laugh Personal Care,Beauty & Health,Personal Care,1124.4,19,910.76,2.8,3754,39,Baldwin-Foster,East Jenna,Alaska,4,Yes,2024-08-23
+MP100873,Against Decor,Home & Kitchen,Decor,2758.91,12,2427.84,1.8,3163,33,Miles Inc,Port Annbury,Connecticut,4,No,2025-04-07
+MP100874,Property Dresses,Fashion,Dresses,2643.72,32,1797.73,4.6,430,36,Keller PLC,Port Josephshire,California,10,Yes,2024-09-18
+MP100875,Century Bedsheets,Home & Kitchen,Bedsheets,1582.95,48,823.13,3.8,862,10,Holland Ltd,West Vickie,Maine,9,No,2024-11-13
+MP100876,Spend Bags,Accessories,Bags,2390.46,21,1888.46,2.9,887,45,Clark-Brooks,Lake Deborah,South Dakota,5,No,2024-08-15
+MP100877,Approach Decor,Home & Kitchen,Decor,2455.7,23,1890.89,1.1,3150,11,Miller Ltd,West Kelly,Wyoming,5,Yes,2024-07-22
+MP100878,Hour Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2373.27,56,1044.24,1.2,985,64,"Ray, Fernandez and Shepard",Nicoleside,North Carolina,3,No,2024-12-15
+MP100879,Sea Watches,Accessories,Watches,1688.07,27,1232.29,3.8,4158,18,"Black, Keith and Young",Petersonview,New Mexico,10,No,2025-06-25
+MP100880,Significant Cookware,Home & Kitchen,Cookware,367.24,59,150.57,4.6,3760,95,"West, Parsons and Baker",Mclaughlinfurt,Nebraska,2,Yes,2025-02-05
+MP100881,Between Sarees,Fashion,Sarees,128.62,46,69.45,1.8,1518,8,Reynolds LLC,Richardville,Iowa,4,Yes,2025-06-16
+MP100882,Anyone Makeup,Beauty & Health,Makeup,229.3,58,96.31,4.9,4203,7,Dickson-Bullock,South Stephanie,South Carolina,6,Yes,2025-03-14
+MP100883,Car Skincare,Beauty & Health,Skincare,1550.52,9,1410.97,3.8,1600,58,Stevenson Inc,North Paulfort,Alabama,3,No,2024-08-28
+MP100884,Former Sarees,Fashion,Sarees,2483.0,35,1613.95,1.6,959,74,"Johns, Miles and Vasquez",Curtismouth,Oklahoma,3,Yes,2025-05-14
+MP100885,Current Earphones,Electronics,Earphones,199.59,7,185.62,4.0,98,84,Wilson-James,Lake Justinhaven,West Virginia,8,No,2025-01-29
+MP100886,Professor Makeup,Beauty & Health,Makeup,2155.19,46,1163.8,1.1,447,42,Wise Inc,North Kurt,Louisiana,4,Yes,2024-08-20
+MP100887,Machine Smartwatches,Electronics,Smartwatches,1598.37,34,1054.92,1.2,3251,24,Carr LLC,Lake Tiffanyland,Wisconsin,10,No,2025-03-01
+MP100888,Media Watches,Accessories,Watches,2209.03,29,1568.41,1.2,758,95,Lara LLC,Josephport,New York,6,No,2025-03-21
+MP100889,Form Smartwatches,Electronics,Smartwatches,2053.97,25,1540.48,4.5,3651,13,Suarez-Jones,Penaview,California,2,No,2025-03-31
+MP100890,Mission Personal Care,Beauty & Health,Personal Care,590.71,43,336.7,3.7,605,79,Jones-Rogers,Austinfurt,Mississippi,10,Yes,2025-07-20
+MP100891,Work Jewelry,Accessories,Jewelry,1398.97,56,615.55,1.8,2542,94,Ramirez PLC,Port Kevinport,Nebraska,6,Yes,2025-02-20
+MP100892,Story Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2747.3,36,1758.27,3.1,4685,89,Woods-Jenkins,Carolville,Colorado,8,Yes,2025-02-02
+MP100893,Realize Jeans,Fashion,Jeans,1479.73,19,1198.58,3.4,1069,26,Nash-Wilson,South Elizabeth,Wisconsin,9,No,2024-08-30
+MP100894,Forget Bedsheets,Home & Kitchen,Bedsheets,1922.58,23,1480.39,3.2,2380,76,Aguirre LLC,Lake Thomas,South Carolina,8,Yes,2024-09-27
+MP100895,Out Makeup,Beauty & Health,Makeup,2557.09,31,1764.39,5.0,4839,46,Aguirre-Park,Gonzalezmouth,Minnesota,8,Yes,2024-10-13
+MP100896,Day Curtains,Home & Kitchen,Curtains,1846.25,14,1587.77,3.0,1098,74,Norton-Sullivan,East Richardland,Michigan,3,Yes,2025-01-23
+MP100897,List Bedsheets,Home & Kitchen,Bedsheets,2391.33,46,1291.32,1.2,3940,86,"Gonzalez, Duffy and Rogers",Wallacemouth,South Carolina,9,Yes,2025-02-11
+MP100898,Blood Jewelry,Accessories,Jewelry,821.82,46,443.78,2.1,4511,8,Gilbert-Anderson,North Loriport,Pennsylvania,8,Yes,2024-11-05
+MP100899,Another Skincare,Beauty & Health,Skincare,1780.67,7,1656.02,1.7,219,60,Jones-Browning,East Audrey,Kansas,2,No,2024-12-15
+MP100900,Their Watches,Accessories,Watches,672.37,17,558.07,1.8,367,21,"Reid, Carter and Owen",Ericberg,Virginia,7,No,2025-02-15
+MP100901,Cut Personal Care,Beauty & Health,Personal Care,1144.68,21,904.3,2.7,2713,44,Allen-Schwartz,Lake Katelyn,North Carolina,6,Yes,2025-03-12
+MP100902,Development Cleaning Supplies,Home & Kitchen,Cleaning Supplies,154.2,8,141.86,4.9,1486,90,"Lopez, Stone and Adams",Tracyside,Georgia,9,Yes,2024-12-03
+MP100903,Author Watches,Accessories,Watches,2238.33,13,1947.35,2.1,3692,92,Gray-Alexander,Lake Caroline,New Hampshire,4,No,2024-11-08
+MP100904,Eat Makeup,Beauty & Health,Makeup,2489.04,39,1518.31,2.6,3704,2,"Horn, Smith and Cabrera",New Vanessa,California,3,Yes,2024-12-12
+MP100905,Serve Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2123.16,18,1740.99,4.3,712,35,Malone Group,Port Allisonberg,Connecticut,2,No,2025-02-23
+MP100906,Girl Personal Care,Beauty & Health,Personal Care,2880.63,43,1641.96,1.4,2557,47,"Rowe, Hodge and Thomas",Markhaven,Maine,10,No,2024-12-12
+MP100907,Evidence Dresses,Fashion,Dresses,125.38,55,56.42,3.1,2171,53,Phillips-Bernard,Hoodhaven,Maryland,5,Yes,2025-06-11
+MP100908,Way Makeup,Beauty & Health,Makeup,738.78,41,435.88,3.3,3557,59,Bird-Calhoun,South Micheleland,Louisiana,6,Yes,2024-09-30
+MP100909,Up Chargers,Electronics,Chargers,1338.88,58,562.33,1.2,192,46,Jensen-Odonnell,Wilkersonport,Louisiana,9,No,2025-04-07
+MP100910,Federal Decor,Home & Kitchen,Decor,2442.07,31,1685.03,1.8,3418,96,Blair LLC,New Andrew,California,6,No,2024-11-28
+MP100911,Piece Mobile Covers,Electronics,Mobile Covers,450.44,24,342.33,4.8,4253,13,Gonzalez Group,East Heather,Vermont,8,No,2024-08-23
+MP100912,Test Jewelry,Accessories,Jewelry,1245.57,42,722.43,2.9,1084,18,Farmer-Young,West Ryanmouth,South Dakota,8,No,2025-01-08
+MP100913,Morning Sunglasses,Accessories,Sunglasses,2421.72,17,2010.03,2.5,4324,62,"Bush, Daniels and Johnson",New Michael,Pennsylvania,10,No,2024-08-23
+MP100914,New Mobile Covers,Electronics,Mobile Covers,1118.92,27,816.81,2.8,919,85,"Rivera, Leblanc and Reeves",Dennisfurt,Wyoming,9,No,2025-07-19
+MP100915,Consider Dresses,Fashion,Dresses,1701.63,36,1089.04,3.4,945,7,Peterson-Hudson,Kimberlyhaven,Vermont,7,Yes,2024-09-12
+MP100916,Remember Chargers,Electronics,Chargers,2972.27,28,2140.03,3.7,3525,11,Whitaker LLC,Christopherberg,New Mexico,3,Yes,2024-09-09
+MP100917,Add Belts,Accessories,Belts,1479.27,5,1405.31,2.0,3596,5,Foster-Brown,Robertbury,Vermont,7,Yes,2024-08-30
+MP100918,Goal Skincare,Beauty & Health,Skincare,1359.51,9,1237.15,3.6,2215,67,Lowe-Russell,Tammyside,Alabama,10,No,2025-04-28
+MP100919,Case Haircare,Beauty & Health,Haircare,2439.92,42,1415.15,3.9,1885,89,Garner-Lawrence,Lake Davidstad,Idaho,7,Yes,2024-08-21
+MP100920,Four Kurtis,Fashion,Kurtis,1002.12,11,891.89,3.9,2339,41,Smith and Sons,Normaberg,Mississippi,4,No,2024-09-28
+MP100921,Possible Skincare,Beauty & Health,Skincare,2440.12,49,1244.46,3.5,3711,74,Webb PLC,Cynthiashire,Indiana,2,No,2024-11-23
+MP100922,Beyond Jewelry,Accessories,Jewelry,154.68,11,137.67,3.9,3971,97,"Hernandez, Wallace and Rice",East Davidhaven,Mississippi,3,Yes,2025-02-04
+MP100923,Wish Jewelry,Accessories,Jewelry,2336.64,58,981.39,1.4,2257,71,Wyatt LLC,South Wendy,West Virginia,10,No,2024-11-05
+MP100924,Reveal Mobile Covers,Electronics,Mobile Covers,1409.46,7,1310.8,1.1,2465,32,Blanchard-Crawford,South Kimberly,Arkansas,4,Yes,2025-04-01
+MP100925,Head Haircare,Beauty & Health,Haircare,878.01,19,711.19,1.7,3386,44,Hunt PLC,South Tracymouth,Arizona,5,Yes,2024-12-04
+MP100926,But Curtains,Home & Kitchen,Curtains,2090.91,25,1568.18,2.7,690,16,"Williamson, Anthony and Orr",New Darrellbury,Utah,6,No,2025-03-24
+MP100927,Note Skincare,Beauty & Health,Skincare,1155.16,35,750.85,4.0,977,41,"Steele, Smith and King",Amandafurt,Ohio,4,Yes,2025-07-07
+MP100928,Military Bags,Accessories,Bags,1571.02,59,644.12,1.5,3671,20,Garza Ltd,Port Valerie,Wisconsin,3,Yes,2025-05-02
+MP100929,Student Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2751.45,43,1568.33,4.5,255,29,Neal LLC,Christophermouth,Indiana,3,No,2024-11-14
+MP100930,Ready Mobile Covers,Electronics,Mobile Covers,2643.9,5,2511.7,4.9,2057,31,Ward-Wolfe,Franklinberg,West Virginia,5,Yes,2024-11-20
+MP100931,Notice Chargers,Electronics,Chargers,1597.59,35,1038.43,2.8,4556,26,Johnson LLC,Ethanmouth,Virginia,3,No,2025-03-30
+MP100932,Magazine Sunglasses,Accessories,Sunglasses,1013.38,22,790.44,4.8,4981,72,Rhodes-Jones,South Ericaville,Maine,7,No,2025-01-24
+MP100933,Those Jewelry,Accessories,Jewelry,1404.82,53,660.27,1.0,3602,44,Harris Inc,South Ronald,Washington,7,No,2025-04-25
+MP100934,Far Earphones,Electronics,Earphones,1662.28,30,1163.6,4.6,3343,52,"Ward, Johnson and Flores",Diazview,California,9,Yes,2024-08-31
+MP100935,So Decor,Home & Kitchen,Decor,2805.97,29,1992.24,2.8,680,9,Vazquez-Alvarez,South Jennifertown,New York,4,No,2025-06-12
+MP100936,Green Chargers,Electronics,Chargers,521.56,5,495.48,4.0,36,97,Gardner Inc,Joshuaberg,Mississippi,9,No,2025-06-10
+MP100937,Call Sarees,Fashion,Sarees,2581.7,38,1600.65,3.9,2774,66,"Garcia, Richardson and Evans",Chandlerport,Alabama,2,Yes,2024-10-11
+MP100938,Property Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2370.11,58,995.45,3.5,772,7,Becker PLC,West Anthonyberg,California,5,Yes,2025-03-29
+MP100939,Point Earphones,Electronics,Earphones,1703.64,60,681.46,3.6,1862,24,Meyers PLC,East Ashleyburgh,New York,8,Yes,2024-09-17
+MP100940,While Makeup,Beauty & Health,Makeup,2619.14,47,1388.14,4.3,427,29,Hughes PLC,North Randallville,Massachusetts,7,Yes,2024-10-22
+MP100941,Health Chargers,Electronics,Chargers,2157.68,8,1985.07,3.9,1244,76,Stewart-Thomas,Transide,Florida,4,Yes,2025-04-12
+MP100942,Them Watches,Accessories,Watches,2439.71,9,2220.14,4.7,4658,90,Evans-Crawford,Port Lisabury,Hawaii,3,No,2025-05-21
+MP100943,Church Personal Care,Beauty & Health,Personal Care,299.16,22,233.34,2.5,2286,98,Lang LLC,Rasmussenborough,Georgia,5,No,2024-11-03
+MP100944,Ready Bags,Accessories,Bags,1667.65,51,817.15,2.2,2733,24,"Martin, Russo and Jackson",Royview,Michigan,8,No,2024-11-14
+MP100945,Claim Makeup,Beauty & Health,Makeup,915.27,51,448.48,4.6,2991,46,Rojas Ltd,East Christopherside,Michigan,5,Yes,2024-11-06
+MP100946,Tree Haircare,Beauty & Health,Haircare,2511.66,12,2210.26,4.1,3566,30,Mann-Butler,North Carolton,Oklahoma,2,Yes,2024-11-27
+MP100947,Magazine Sunglasses,Accessories,Sunglasses,591.9,48,307.79,5.0,3898,12,Webb-Evans,West Kristinberg,South Carolina,2,Yes,2024-12-28
+MP100948,Defense Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1390.66,21,1098.62,1.9,1491,25,Guerrero Group,North Larry,Delaware,10,Yes,2025-06-16
+MP100949,Partner Sunglasses,Accessories,Sunglasses,484.78,13,421.76,1.4,543,51,Hall PLC,Huntburgh,Massachusetts,5,No,2025-04-17
+MP100950,Finally Jewelry,Accessories,Jewelry,2666.76,28,1920.07,1.7,491,29,Marshall-Cooley,Mcculloughmouth,Nebraska,10,No,2025-03-15
+MP100951,Four Kurtis,Fashion,Kurtis,2494.58,22,1945.77,4.5,3538,96,Miller PLC,Jonestown,Ohio,10,No,2024-10-16
+MP100952,Hour Sarees,Fashion,Sarees,785.83,11,699.39,4.7,4587,29,Weiss-Jones,Margaretport,New Jersey,10,Yes,2025-06-13
+MP100953,Sing Bags,Accessories,Bags,2130.61,58,894.86,3.8,183,69,Aguilar-Smith,Beckbury,Oregon,9,Yes,2025-04-17
+MP100954,Pressure Mobile Covers,Electronics,Mobile Covers,1266.83,14,1089.47,1.8,1788,23,"Romero, Cooper and Drake",Smithshire,Hawaii,4,No,2025-03-29
+MP100955,Wait Jewelry,Accessories,Jewelry,2609.09,29,1852.45,4.1,3921,49,Smith and Sons,Lake Julieview,Texas,5,Yes,2024-07-28
+MP100956,Off Belts,Accessories,Belts,2348.23,44,1315.01,4.1,3845,28,Barrera-Dalton,West Kristintown,Alabama,9,No,2025-06-23
+MP100957,Sing Watches,Accessories,Watches,783.99,35,509.59,3.8,716,90,"Pineda, Leblanc and Lopez",Port Alexismouth,New York,6,No,2024-09-22
+MP100958,Act Bedsheets,Home & Kitchen,Bedsheets,2507.08,32,1704.81,2.6,4393,97,Blair and Sons,Carmenberg,Indiana,2,Yes,2025-06-06
+MP100959,Decade Jewelry,Accessories,Jewelry,2014.26,20,1611.41,4.3,2675,53,Gregory Ltd,Port Robert,New Hampshire,9,No,2024-10-11
+MP100960,Part Jewelry,Accessories,Jewelry,655.36,16,550.5,3.3,2746,12,"Knight, Miller and Gonzales",Susanchester,New York,3,Yes,2025-04-29
+MP100961,Executive Kurtis,Fashion,Kurtis,430.43,31,297.0,3.6,1382,35,Park Ltd,East Shawn,West Virginia,7,No,2025-01-05
+MP100962,Movie Bedsheets,Home & Kitchen,Bedsheets,291.09,5,276.54,3.6,2265,15,Kramer-Klein,New Jeffreymouth,Arkansas,10,No,2024-09-26
+MP100963,Factor Smartwatches,Electronics,Smartwatches,1884.62,31,1300.39,4.1,2082,81,"Lyons, Walker and Conrad",Bowenstad,Maine,7,Yes,2025-05-23
+MP100964,Lot Cleaning Supplies,Home & Kitchen,Cleaning Supplies,2038.51,23,1569.65,1.6,2366,63,"Carr, Lee and Thomas",Lake Shannonmouth,Arizona,7,Yes,2025-04-10
+MP100965,Than Haircare,Beauty & Health,Haircare,1235.95,43,704.49,2.2,851,35,Bell-Bailey,Ryanville,Ohio,7,Yes,2024-08-20
+MP100966,Also Sarees,Fashion,Sarees,107.29,25,80.47,4.5,1143,84,Porter PLC,South Raymond,New Mexico,10,Yes,2025-06-25
+MP100967,Civil Jeans,Fashion,Jeans,218.63,35,142.11,3.9,3106,21,Snyder PLC,South Billy,Alabama,7,No,2024-10-12
+MP100968,Follow Haircare,Beauty & Health,Haircare,2981.54,30,2087.08,3.7,4154,28,Dunlap Ltd,Caroltown,Vermont,10,Yes,2025-07-07
+MP100969,Them Personal Care,Beauty & Health,Personal Care,271.51,13,236.21,4.7,4596,57,Norris Ltd,Lake Juan,South Dakota,3,No,2025-02-21
+MP100970,Goal Cleaning Supplies,Home & Kitchen,Cleaning Supplies,1275.17,16,1071.14,5.0,714,82,West Group,Lopezport,Wyoming,2,No,2025-07-10
+MP100971,Business Chargers,Electronics,Chargers,1898.44,51,930.24,4.0,4003,1,"Casey, Blackwell and Hickman",North Emilyberg,Virginia,8,No,2025-01-02
+MP100972,Operation Jewelry,Accessories,Jewelry,125.15,48,65.08,3.9,1329,18,"Perry, Warner and Jones",Lake Julie,Texas,8,No,2024-12-07
+MP100973,Pick Decor,Home & Kitchen,Decor,1377.68,40,826.61,1.2,41,65,"Jordan, Phillips and Schmidt",West Stacyton,Michigan,9,No,2024-09-19
+MP100974,Authority Personal Care,Beauty & Health,Personal Care,2653.55,59,1087.96,3.3,1230,25,Jones PLC,North Jacqueline,Florida,5,Yes,2024-10-30
+MP100975,Military Earphones,Electronics,Earphones,2384.84,39,1454.75,4.6,1802,9,Williams PLC,South Alexistown,South Carolina,5,Yes,2025-04-23
+MP100976,Use Dresses,Fashion,Dresses,1949.42,14,1676.5,1.7,4043,99,Kim-Johnson,East Roger,Virginia,9,Yes,2025-03-23
+MP100977,Medical Bedsheets,Home & Kitchen,Bedsheets,161.78,43,92.21,1.0,3536,9,Kaufman-Orozco,Priceshire,New York,7,No,2025-04-19
+MP100978,Fall Watches,Accessories,Watches,2533.57,22,1976.18,2.2,226,87,"Roberts, Molina and Foster",Boydbury,Illinois,3,Yes,2024-10-11
+MP100979,Great Sarees,Fashion,Sarees,914.18,47,484.52,2.2,3512,2,"Walker, Hawkins and Wright",Lake Danielville,Missouri,5,Yes,2025-03-20
+MP100980,Enough Cookware,Home & Kitchen,Cookware,2809.65,50,1404.83,3.1,1246,5,"Farmer, Stephens and Taylor",Jonesfort,West Virginia,5,Yes,2024-11-19
+MP100981,Machine Skincare,Beauty & Health,Skincare,2256.27,50,1128.13,3.8,900,58,Chan-Aguirre,West William,New Jersey,6,No,2024-10-08
+MP100982,Himself Makeup,Beauty & Health,Makeup,2431.54,47,1288.72,3.4,385,49,Carter-Roberts,Kennethburgh,Arizona,3,No,2024-12-08
+MP100983,Cause Personal Care,Beauty & Health,Personal Care,2132.24,39,1300.67,1.3,695,56,Morgan PLC,East Karenville,Rhode Island,4,Yes,2024-08-18
+MP100984,Citizen Makeup,Beauty & Health,Makeup,1902.72,48,989.41,3.2,4536,90,"Harvey, Freeman and Brown",West Samantha,Ohio,2,No,2025-05-20
+MP100985,Share Bags,Accessories,Bags,1078.43,6,1013.72,1.8,4519,19,Holt and Sons,East Kyle,Arizona,5,Yes,2025-04-04
+MP100986,Sister Earphones,Electronics,Earphones,435.33,37,274.26,3.3,888,10,Hanna Ltd,Patrickbury,New Jersey,5,No,2024-09-15
+MP100987,Foreign Jeans,Fashion,Jeans,1245.07,19,1008.51,4.5,3797,23,Roth LLC,New Gabrielchester,Massachusetts,7,Yes,2025-06-01
+MP100988,Argue Mobile Covers,Electronics,Mobile Covers,1859.97,55,836.99,2.5,121,84,"Schwartz, Alvarado and Myers",Johnsonchester,South Carolina,4,Yes,2024-08-07
+MP100989,Believe Bags,Accessories,Bags,2724.29,16,2288.4,3.2,1071,9,Meyer LLC,West Peter,Massachusetts,8,Yes,2025-05-02
+MP100990,Pressure Decor,Home & Kitchen,Decor,753.22,50,376.61,4.0,23,61,Leon-Anderson,Port Josephville,New Mexico,9,Yes,2025-02-06
+MP100991,Candidate Dresses,Fashion,Dresses,1518.95,49,774.66,2.3,2286,78,Williamson and Sons,Jonathanshire,California,6,Yes,2024-11-20
+MP100992,Sing Sunglasses,Accessories,Sunglasses,159.41,36,102.02,4.6,1054,52,Banks Ltd,East Aprilton,Tennessee,5,Yes,2024-07-24
+MP100993,Sense T-Shirts,Fashion,T-Shirts,2574.13,55,1158.36,3.3,2657,85,"Owen, Brown and Mcdowell",Scottburgh,Florida,8,Yes,2024-09-15
+MP100994,True Haircare,Beauty & Health,Haircare,206.22,46,111.36,3.2,2732,2,Bradley PLC,Amberburgh,Virginia,10,Yes,2025-06-26
+MP100995,Though Personal Care,Beauty & Health,Personal Care,1786.22,6,1679.05,4.3,604,42,Swanson and Sons,Aarontown,New Hampshire,5,Yes,2025-01-27
+MP100996,Kitchen Personal Care,Beauty & Health,Personal Care,2253.46,47,1194.33,2.4,188,35,Webb Inc,Hernandezmouth,West Virginia,3,Yes,2025-03-17
+MP100997,Service Chargers,Electronics,Chargers,1248.72,43,711.77,1.6,2483,75,Wolfe LLC,South Carolville,South Carolina,10,Yes,2024-12-01
+MP100998,Nothing Jewelry,Accessories,Jewelry,1771.22,47,938.75,1.2,1959,1,"Guerra, Ramirez and Taylor",Lake Melindashire,Alabama,7,No,2025-02-08
+MP100999,Seem Jewelry,Accessories,Jewelry,1544.34,5,1467.12,5.0,710,39,"Watson, Shelton and Gaines",Richardshire,Arkansas,3,No,2025-04-07
